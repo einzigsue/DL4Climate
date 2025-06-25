@@ -1,0 +1,4409 @@
+--------------------------------------------------------------------------------
+10:02:14: epoch 0 start
+using scheduler: current learning rate = [9.998026259498021e-05]
+10:03:30: Epoch 0 summary:
+time taken: 75.75905323028564
+nsamples / sec: 0.07575905323028564
+average training loss: 0.009178407629528585
+--------------------------------------------------------------------------------
+10:03:30: epoch 1 start
+using scheduler: current learning rate = [9.993093369094605e-05]
+10:04:44: Epoch 1 summary:
+time taken: 74.14188528060913
+nsamples / sec: 0.07414188528060914
+average training loss: 0.007131495977551133
+--------------------------------------------------------------------------------
+10:04:44: epoch 2 start
+using scheduler: current learning rate = [9.986190524833163e-05]
+10:05:58: Epoch 2 summary:
+time taken: 74.07808780670166
+nsamples / sec: 0.07407808780670166
+average training loss: 0.0065744868231701545
+--------------------------------------------------------------------------------
+10:05:58: epoch 3 start
+using scheduler: current learning rate = [9.977320754244407e-05]
+10:07:12: Epoch 3 summary:
+time taken: 74.00867414474487
+nsamples / sec: 0.07400867414474488
+average training loss: 0.0062388571329829315
+--------------------------------------------------------------------------------
+10:07:12: epoch 4 start
+using scheduler: current learning rate = [9.96648794761772e-05]
+10:08:26: Epoch 4 summary:
+time taken: 74.01638293266296
+nsamples / sec: 0.07401638293266297
+average training loss: 0.006005696702709224
+--------------------------------------------------------------------------------
+10:08:26: epoch 5 start
+using scheduler: current learning rate = [9.953696856294635e-05]
+10:09:40: Epoch 5 summary:
+time taken: 74.01402020454407
+nsamples / sec: 0.07401402020454406
+average training loss: 0.005833760672400826
+--------------------------------------------------------------------------------
+10:09:40: epoch 6 start
+using scheduler: current learning rate = [9.938953090584589e-05]
+10:10:54: Epoch 6 summary:
+time taken: 73.95894408226013
+nsamples / sec: 0.07395894408226013
+average training loss: 0.005697114085043512
+--------------------------------------------------------------------------------
+10:10:54: epoch 7 start
+using scheduler: current learning rate = [9.922263117303962e-05]
+10:12:08: Epoch 7 summary:
+time taken: 73.95009016990662
+nsamples / sec: 0.07395009016990661
+average training loss: 0.005585766808770794
+--------------------------------------------------------------------------------
+10:12:08: epoch 8 start
+using scheduler: current learning rate = [9.903634256939362e-05]
+10:13:22: Epoch 8 summary:
+time taken: 74.03274250030518
+nsamples / sec: 0.07403274250030517
+average training loss: 0.005491793303998019
+--------------------------------------------------------------------------------
+10:13:22: epoch 9 start
+using scheduler: current learning rate = [9.883074680436503e-05]
+10:14:36: Epoch 9 summary:
+time taken: 74.05745601654053
+nsamples / sec: 0.07405745601654053
+average training loss: 0.005409820839536185
+--------------------------------------------------------------------------------
+10:14:36: epoch 10 start
+using scheduler: current learning rate = [9.860593405616024e-05]
+10:15:50: Epoch 10 summary:
+time taken: 74.02808833122253
+nsamples / sec: 0.07402808833122253
+average training loss: 0.005338793246897331
+--------------------------------------------------------------------------------
+10:15:50: epoch 11 start
+using scheduler: current learning rate = [9.836200293217844e-05]
+10:17:04: Epoch 11 summary:
+time taken: 73.95245170593262
+nsamples / sec: 0.07395245170593262
+average training loss: 0.005275568280950773
+--------------------------------------------------------------------------------
+10:17:04: epoch 12 start
+using scheduler: current learning rate = [9.809906042575782e-05]
+10:18:18: Epoch 12 summary:
+time taken: 73.98844337463379
+nsamples / sec: 0.07398844337463378
+average training loss: 0.0052186072910439365
+--------------------------------------------------------------------------------
+10:18:18: epoch 13 start
+using scheduler: current learning rate = [9.781722186924336e-05]
+10:19:32: Epoch 13 summary:
+time taken: 74.03120350837708
+nsamples / sec: 0.07403120350837708
+average training loss: 0.0051677521354025
+--------------------------------------------------------------------------------
+10:19:32: epoch 14 start
+using scheduler: current learning rate = [9.751661088339704e-05]
+10:20:46: Epoch 14 summary:
+time taken: 74.03460645675659
+nsamples / sec: 0.0740346064567566
+average training loss: 0.00512078431183936
+--------------------------------------------------------------------------------
+10:20:46: epoch 15 start
+using scheduler: current learning rate = [9.719735932317199e-05]
+10:22:00: Epoch 15 summary:
+time taken: 74.04797053337097
+nsamples / sec: 0.07404797053337098
+average training loss: 0.005078330282834619
+--------------------------------------------------------------------------------
+10:22:00: epoch 16 start
+using scheduler: current learning rate = [9.685960721987544e-05]
+10:23:14: Epoch 16 summary:
+time taken: 73.99902725219727
+nsamples / sec: 0.07399902725219727
+average training loss: 0.005039364307307154
+--------------------------------------------------------------------------------
+10:23:14: epoch 17 start
+using scheduler: current learning rate = [9.650350271974475e-05]
+10:24:28: Epoch 17 summary:
+time taken: 73.96971893310547
+nsamples / sec: 0.07396971893310547
+average training loss: 0.005003040479770345
+--------------------------------------------------------------------------------
+10:24:28: epoch 18 start
+using scheduler: current learning rate = [9.612920201896406e-05]
+10:25:42: Epoch 18 summary:
+time taken: 74.03045535087585
+nsamples / sec: 0.07403045535087585
+average training loss: 0.004969778425674175
+--------------------------------------------------------------------------------
+10:25:42: epoch 19 start
+using scheduler: current learning rate = [9.573686929515002e-05]
+10:26:56: Epoch 19 summary:
+time taken: 74.0720705986023
+nsamples / sec: 0.0740720705986023
+average training loss: 0.0049379238029773264
+--------------------------------------------------------------------------------
+10:26:56: epoch 20 start
+using scheduler: current learning rate = [9.532667663533652e-05]
+10:28:10: Epoch 20 summary:
+time taken: 73.96800565719604
+nsamples / sec: 0.07396800565719605
+average training loss: 0.004906894804674879
+--------------------------------------------------------------------------------
+10:28:10: epoch 21 start
+using scheduler: current learning rate = [9.489880396048998e-05]
+10:29:24: Epoch 21 summary:
+time taken: 73.96890377998352
+nsamples / sec: 0.07396890377998352
+average training loss: 0.004879347461032359
+--------------------------------------------------------------------------------
+10:29:24: epoch 22 start
+using scheduler: current learning rate = [9.445343894658845e-05]
+10:30:38: Epoch 22 summary:
+time taken: 73.96525645256042
+nsamples / sec: 0.07396525645256043
+average training loss: 0.004852650945481806
+--------------------------------------------------------------------------------
+10:30:38: epoch 23 start
+using scheduler: current learning rate = [9.399077694229907e-05]
+10:31:52: Epoch 23 summary:
+time taken: 74.02916884422302
+nsamples / sec: 0.07402916884422302
+average training loss: 0.00482812925109537
+--------------------------------------------------------------------------------
+10:31:52: epoch 24 start
+using scheduler: current learning rate = [9.35110208832899e-05]
+10:33:06: Epoch 24 summary:
+time taken: 74.03349804878235
+nsamples / sec: 0.07403349804878234
+average training loss: 0.004804776889865964
+--------------------------------------------------------------------------------
+10:33:06: epoch 25 start
+using scheduler: current learning rate = [9.301438120321385e-05]
+10:34:20: Epoch 25 summary:
+time taken: 74.05060839653015
+nsamples / sec: 0.07405060839653015
+average training loss: 0.004780289714045939
+--------------------------------------------------------------------------------
+10:34:20: epoch 26 start
+using scheduler: current learning rate = [9.250107574140372e-05]
+10:35:34: Epoch 26 summary:
+time taken: 74.00860953330994
+nsamples / sec: 0.07400860953330994
+average training loss: 0.004760711201768303
+--------------------------------------------------------------------------------
+10:35:34: epoch 27 start
+using scheduler: current learning rate = [9.197132964731874e-05]
+10:36:48: Epoch 27 summary:
+time taken: 73.99833083152771
+nsamples / sec: 0.07399833083152771
+average training loss: 0.004740032245812143
+--------------------------------------------------------------------------------
+10:36:48: epoch 28 start
+using scheduler: current learning rate = [9.142537528178462e-05]
+10:38:02: Epoch 28 summary:
+time taken: 73.97946953773499
+nsamples / sec: 0.07397946953773499
+average training loss: 0.004719024094347896
+--------------------------------------------------------------------------------
+10:38:02: epoch 29 start
+using scheduler: current learning rate = [9.086345211507034e-05]
+10:39:16: Epoch 29 summary:
+time taken: 74.0284161567688
+nsamples / sec: 0.07402841615676879
+average training loss: 0.004701525541769628
+--------------------------------------------------------------------------------
+10:39:16: epoch 30 start
+using scheduler: current learning rate = [9.028580662184653e-05]
+10:40:30: Epoch 30 summary:
+time taken: 74.02973055839539
+nsamples / sec: 0.07402973055839539
+average training loss: 0.004684176160166519
+--------------------------------------------------------------------------------
+10:40:30: epoch 31 start
+using scheduler: current learning rate = [8.96926921730713e-05]
+10:41:44: Epoch 31 summary:
+time taken: 74.03522062301636
+nsamples / sec: 0.07403522062301636
+average training loss: 0.0046659561087241804
+--------------------------------------------------------------------------------
+10:41:44: epoch 32 start
+using scheduler: current learning rate = [8.908436892485105e-05]
+10:42:58: Epoch 32 summary:
+time taken: 73.9654188156128
+nsamples / sec: 0.07396541881561279
+average training loss: 0.004649478052689462
+--------------------------------------------------------------------------------
+10:42:58: epoch 33 start
+using scheduler: current learning rate = [8.846110370432519e-05]
+10:44:12: Epoch 33 summary:
+time taken: 73.92636585235596
+nsamples / sec: 0.07392636585235596
+average training loss: 0.004632084454549869
+--------------------------------------------------------------------------------
+10:44:12: epoch 34 start
+using scheduler: current learning rate = [8.782316989262437e-05]
+10:45:26: Epoch 34 summary:
+time taken: 74.0341100692749
+nsamples / sec: 0.0740341100692749
+average training loss: 0.004618450345287075
+--------------------------------------------------------------------------------
+10:45:26: epoch 35 start
+using scheduler: current learning rate = [8.717084730495391e-05]
+10:46:40: Epoch 35 summary:
+time taken: 73.99551963806152
+nsamples / sec: 0.07399551963806153
+average training loss: 0.00460234664709092
+--------------------------------------------------------------------------------
+10:46:40: epoch 36 start
+using scheduler: current learning rate = [8.650442206785511e-05]
+10:47:54: Epoch 36 summary:
+time taken: 74.01706838607788
+nsamples / sec: 0.07401706838607788
+average training loss: 0.004586977711392053
+--------------------------------------------------------------------------------
+10:47:54: epoch 37 start
+using scheduler: current learning rate = [8.582418649369773e-05]
+10:49:08: Epoch 37 summary:
+time taken: 73.95525693893433
+nsamples / sec: 0.07395525693893433
+average training loss: 0.0045737463972833235
+--------------------------------------------------------------------------------
+10:49:08: epoch 38 start
+using scheduler: current learning rate = [8.513043895245928e-05]
+10:50:22: Epoch 38 summary:
+time taken: 74.0050938129425
+nsamples / sec: 0.0740050938129425
+average training loss: 0.0045602500133476295
+--------------------------------------------------------------------------------
+10:50:22: epoch 39 start
+using scheduler: current learning rate = [8.442348374084723e-05]
+10:51:36: Epoch 39 summary:
+time taken: 73.9618330001831
+nsamples / sec: 0.07396183300018311
+average training loss: 0.004546765624191349
+--------------------------------------------------------------------------------
+10:51:36: epoch 40 start
+using scheduler: current learning rate = [8.370363094882108e-05]
+10:52:50: Epoch 40 summary:
+time taken: 74.0239884853363
+nsamples / sec: 0.0740239884853363
+average training loss: 0.004533799367824305
+--------------------------------------------------------------------------------
+10:52:50: epoch 41 start
+using scheduler: current learning rate = [8.297119632357338e-05]
+10:54:04: Epoch 41 summary:
+time taken: 73.95858669281006
+nsamples / sec: 0.07395858669281005
+average training loss: 0.004523114338078266
+--------------------------------------------------------------------------------
+10:54:04: epoch 42 start
+using scheduler: current learning rate = [8.222650113102926e-05]
+10:55:18: Epoch 42 summary:
+time taken: 73.98124647140503
+nsamples / sec: 0.07398124647140503
+average training loss: 0.00450898077090437
+--------------------------------------------------------------------------------
+10:55:18: epoch 43 start
+using scheduler: current learning rate = [8.146987201492479e-05]
+10:56:32: Epoch 43 summary:
+time taken: 74.05980062484741
+nsamples / sec: 0.07405980062484742
+average training loss: 0.0044972082913142175
+--------------------------------------------------------------------------------
+10:56:32: epoch 44 start
+using scheduler: current learning rate = [8.070164085352656e-05]
+10:57:46: Epoch 44 summary:
+time taken: 74.06419253349304
+nsamples / sec: 0.07406419253349304
+average training loss: 0.004487956358061941
+--------------------------------------------------------------------------------
+10:57:46: epoch 45 start
+using scheduler: current learning rate = [7.992214461405495e-05]
+10:59:00: Epoch 45 summary:
+time taken: 74.07011985778809
+nsamples / sec: 0.07407011985778808
+average training loss: 0.0044759327978038084
+--------------------------------------------------------------------------------
+10:59:00: epoch 46 start
+using scheduler: current learning rate = [7.913172520487479e-05]
+11:00:14: Epoch 46 summary:
+time taken: 74.05893635749817
+nsamples / sec: 0.07405893635749818
+average training loss: 0.004463447646816153
+--------------------------------------------------------------------------------
+11:00:14: epoch 47 start
+using scheduler: current learning rate = [7.8330729325519e-05]
+11:01:28: Epoch 47 summary:
+time taken: 74.04974555969238
+nsamples / sec: 0.07404974555969238
+average training loss: 0.004454305771045021
+--------------------------------------------------------------------------------
+11:01:28: epoch 48 start
+using scheduler: current learning rate = [7.751950831460977e-05]
+11:02:42: Epoch 48 summary:
+time taken: 74.01053428649902
+nsamples / sec: 0.07401053428649902
+average training loss: 0.004443013738896445
+--------------------------------------------------------------------------------
+11:02:42: epoch 49 start
+using scheduler: current learning rate = [7.669841799574514e-05]
+11:03:56: Epoch 49 summary:
+time taken: 73.96618819236755
+nsamples / sec: 0.07396618819236755
+average training loss: 0.0044350023634051345
+--------------------------------------------------------------------------------
+11:03:56: epoch 50 start
+using scheduler: current learning rate = [7.586781852141796e-05]
+11:05:10: Epoch 50 summary:
+time taken: 74.0496129989624
+nsamples / sec: 0.0740496129989624
+average training loss: 0.004424034882364938
+--------------------------------------------------------------------------------
+11:05:10: epoch 51 start
+using scheduler: current learning rate = [7.502807421503548e-05]
+11:06:24: Epoch 51 summary:
+time taken: 74.05630993843079
+nsamples / sec: 0.07405630993843079
+average training loss: 0.004415497693921347
+--------------------------------------------------------------------------------
+11:06:24: epoch 52 start
+using scheduler: current learning rate = [7.417955341110956e-05]
+11:07:38: Epoch 52 summary:
+time taken: 73.99650883674622
+nsamples / sec: 0.07399650883674622
+average training loss: 0.0044051322323973964
+--------------------------------------------------------------------------------
+11:07:38: epoch 53 start
+using scheduler: current learning rate = [7.332262829368696e-05]
+11:08:52: Epoch 53 summary:
+time taken: 74.01922607421875
+nsamples / sec: 0.07401922607421875
+average training loss: 0.00439701353934587
+--------------------------------------------------------------------------------
+11:08:52: epoch 54 start
+using scheduler: current learning rate = [7.245767473309062e-05]
+11:10:06: Epoch 54 summary:
+time taken: 73.99806213378906
+nsamples / sec: 0.07399806213378907
+average training loss: 0.00438713764776712
+--------------------------------------------------------------------------------
+11:10:06: epoch 55 start
+using scheduler: current learning rate = [7.158507212104403e-05]
+11:11:20: Epoch 55 summary:
+time taken: 73.98447322845459
+nsamples / sec: 0.07398447322845458
+average training loss: 0.004380002613377149
+--------------------------------------------------------------------------------
+11:11:20: epoch 56 start
+using scheduler: current learning rate = [7.070520320425019e-05]
+11:12:34: Epoch 56 summary:
+time taken: 74.00604033470154
+nsamples / sec: 0.07400604033470154
+average training loss: 0.004370537844079133
+--------------------------------------------------------------------------------
+11:12:34: epoch 57 start
+using scheduler: current learning rate = [6.981845391649872e-05]
+11:13:48: Epoch 57 summary:
+time taken: 74.01606702804565
+nsamples / sec: 0.07401606702804565
+average training loss: 0.004362150618946036
+--------------------------------------------------------------------------------
+11:13:48: epoch 58 start
+using scheduler: current learning rate = [6.892521320937483e-05]
+11:15:02: Epoch 58 summary:
+time taken: 74.02998542785645
+nsamples / sec: 0.07402998542785645
+average training loss: 0.0043541785813227775
+--------------------------------------------------------------------------------
+11:15:02: epoch 59 start
+using scheduler: current learning rate = [6.802587288164357e-05]
+11:16:16: Epoch 59 summary:
+time taken: 73.95869421958923
+nsamples / sec: 0.07395869421958923
+average training loss: 0.004345604619386825
+--------------------------------------------------------------------------------
+11:16:16: epoch 60 start
+using scheduler: current learning rate = [6.712082740738499e-05]
+11:17:30: Epoch 60 summary:
+time taken: 73.9546308517456
+nsamples / sec: 0.07395463085174561
+average training loss: 0.004337946216599493
+clim_bias: 58.22357177734375
+infer_bias: 58.22357177734375
+new best clim_bias, save checkpoint
+--------------------------------------------------------------------------------
+11:18:03: epoch 61 start
+using scheduler: current learning rate = [6.621047376295544e-05]
+11:19:18: Epoch 61 summary:
+time taken: 74.16823029518127
+nsamples / sec: 0.07416823029518127
+average training loss: 0.0043310484295892735
+clim_bias: 115.97871398925781
+infer_bias: 87.10114288330078
+--------------------------------------------------------------------------------
+11:19:50: epoch 62 start
+using scheduler: current learning rate = [6.529521125285029e-05]
+11:21:05: Epoch 62 summary:
+time taken: 74.25708031654358
+nsamples / sec: 0.07425708031654357
+average training loss: 0.004324164183886959
+clim_bias: 62.70138931274414
+infer_bias: 78.96788787841797
+--------------------------------------------------------------------------------
+11:21:37: epoch 63 start
+using scheduler: current learning rate = [6.437544133454507e-05]
+11:22:51: Epoch 63 summary:
+time taken: 74.20009565353394
+nsamples / sec: 0.07420009565353393
+average training loss: 0.004315354250593497
+clim_bias: 70.6545639038086
+infer_bias: 76.88955688476562
+--------------------------------------------------------------------------------
+11:23:24: epoch 64 start
+using scheduler: current learning rate = [6.345156744239139e-05]
+11:24:39: Epoch 64 summary:
+time taken: 74.2923538684845
+nsamples / sec: 0.0742923538684845
+average training loss: 0.00430930043608691
+clim_bias: 45.65526580810547
+infer_bias: 70.6427001953125
+new best clim_bias, save checkpoint
+--------------------------------------------------------------------------------
+11:25:12: epoch 65 start
+using scheduler: current learning rate = [6.252399481064517e-05]
+11:26:26: Epoch 65 summary:
+time taken: 74.2079381942749
+nsamples / sec: 0.0742079381942749
+average training loss: 0.004301353103863806
+clim_bias: 87.0358657836914
+infer_bias: 73.3749008178711
+--------------------------------------------------------------------------------
+11:26:59: epoch 66 start
+using scheduler: current learning rate = [6.159313029570427e-05]
+11:28:13: Epoch 66 summary:
+time taken: 74.2399652004242
+nsamples / sec: 0.0742399652004242
+average training loss: 0.004295173139756839
+clim_bias: 72.10477447509766
+infer_bias: 73.19344329833984
+--------------------------------------------------------------------------------
+11:28:46: epoch 67 start
+using scheduler: current learning rate = [6.065938219763412e-05]
+11:30:00: Epoch 67 summary:
+time taken: 74.2428970336914
+nsamples / sec: 0.07424289703369141
+average training loss: 0.004288169550885598
+clim_bias: 123.92838287353516
+infer_bias: 79.53531646728516
+--------------------------------------------------------------------------------
+11:30:33: epoch 68 start
+using scheduler: current learning rate = [5.972316008105857e-05]
+11:31:47: Epoch 68 summary:
+time taken: 74.24722838401794
+nsamples / sec: 0.07424722838401794
+average training loss: 0.0042806779816700734
+clim_bias: 67.00643920898438
+infer_bias: 78.14321899414062
+--------------------------------------------------------------------------------
+11:32:20: epoch 69 start
+using scheduler: current learning rate = [5.87848745954957e-05]
+11:33:34: Epoch 69 summary:
+time taken: 74.35222029685974
+nsamples / sec: 0.07435222029685974
+average training loss: 0.004274967920649823
+clim_bias: 53.521820068359375
+infer_bias: 75.68108367919922
+--------------------------------------------------------------------------------
+11:34:07: epoch 70 start
+using scheduler: current learning rate = [5.78449372952159e-05]
+11:35:21: Epoch 70 summary:
+time taken: 74.23642349243164
+nsamples / sec: 0.07423642349243165
+average training loss: 0.004269683217792053
+clim_bias: 33.24538040161133
+infer_bias: 71.82329559326172
+new best clim_bias, save checkpoint
+--------------------------------------------------------------------------------
+11:35:54: epoch 71 start
+using scheduler: current learning rate = [5.6903760458702716e-05]
+11:37:08: Epoch 71 summary:
+time taken: 74.26605105400085
+nsamples / sec: 0.07426605105400086
+average training loss: 0.004261630753459712
+clim_bias: 61.21116256713867
+infer_bias: 70.93894958496094
+--------------------------------------------------------------------------------
+11:37:41: epoch 72 start
+using scheduler: current learning rate = [5.596175690779378e-05]
+11:38:55: Epoch 72 summary:
+time taken: 74.26276326179504
+nsamples / sec: 0.07426276326179504
+average training loss: 0.004256128924998879
+clim_bias: 57.2078857421875
+infer_bias: 69.8827133178711
+--------------------------------------------------------------------------------
+11:39:28: epoch 73 start
+using scheduler: current learning rate = [5.5019339826582696e-05]
+11:40:42: Epoch 73 summary:
+time taken: 74.20003581047058
+nsamples / sec: 0.07420003581047058
+average training loss: 0.004249361856591313
+clim_bias: 76.2200698852539
+infer_bias: 70.33538055419922
+--------------------------------------------------------------------------------
+11:41:15: epoch 74 start
+using scheduler: current learning rate = [5.40769225801601e-05]
+11:42:29: Epoch 74 summary:
+time taken: 74.24079918861389
+nsamples / sec: 0.0742407991886139
+average training loss: 0.004244460337803358
+clim_bias: 95.67855834960938
+infer_bias: 72.0249252319336
+--------------------------------------------------------------------------------
+11:43:02: epoch 75 start
+using scheduler: current learning rate = [5.3134918533273615e-05]
+11:44:16: Epoch 75 summary:
+time taken: 74.28544425964355
+nsamples / sec: 0.07428544425964355
+average training loss: 0.0042378677477972184
+clim_bias: 125.86028289794922
+infer_bias: 75.38963317871094
+--------------------------------------------------------------------------------
+11:44:49: epoch 76 start
+using scheduler: current learning rate = [5.219374086898606e-05]
+11:46:03: Epoch 76 summary:
+time taken: 74.24594306945801
+nsamples / sec: 0.074245943069458
+average training loss: 0.0042327770654413685
+clim_bias: 70.75050354003906
+infer_bias: 75.11675262451172
+--------------------------------------------------------------------------------
+11:46:36: epoch 77 start
+using scheduler: current learning rate = [5.125380240741168e-05]
+11:47:50: Epoch 77 summary:
+time taken: 74.27935242652893
+nsamples / sec: 0.07427935242652893
+average training loss: 0.0042265959619362725
+clim_bias: 72.47935485839844
+infer_bias: 74.97022247314453
+--------------------------------------------------------------------------------
+11:48:23: epoch 78 start
+using scheduler: current learning rate = [5.031551542460846e-05]
+11:49:38: Epoch 78 summary:
+time taken: 74.31686520576477
+nsamples / sec: 0.07431686520576478
+average training loss: 0.004221218653663801
+clim_bias: 39.83305358886719
+infer_bias: 73.12089538574219
+--------------------------------------------------------------------------------
+11:50:11: epoch 79 start
+using scheduler: current learning rate = [4.937929147170774e-05]
+11:51:25: Epoch 79 summary:
+time taken: 74.26787567138672
+nsamples / sec: 0.07426787567138672
+average training loss: 0.004216212690615829
+clim_bias: 93.12395477294922
+infer_bias: 74.12104797363281
+--------------------------------------------------------------------------------
+11:51:58: epoch 80 start
+using scheduler: current learning rate = [4.844554119435794e-05]
+11:53:12: Epoch 80 summary:
+time taken: 74.29751133918762
+nsamples / sec: 0.07429751133918762
+average training loss: 0.004210816277714989
+clim_bias: 54.209877014160156
+infer_bias: 73.17289733886719
+--------------------------------------------------------------------------------
+11:53:45: epoch 81 start
+using scheduler: current learning rate = [4.751467415256349e-05]
+11:54:59: Epoch 81 summary:
+time taken: 74.25272107124329
+nsamples / sec: 0.07425272107124328
+average training loss: 0.004205562047255731
+clim_bias: 28.133703231811523
+infer_bias: 71.12566375732422
+new best clim_bias, save checkpoint
+--------------------------------------------------------------------------------
+11:55:32: epoch 82 start
+using scheduler: current learning rate = [4.6587098640995836e-05]
+11:56:47: Epoch 82 summary:
+time taken: 74.25497937202454
+nsamples / sec: 0.07425497937202453
+average training loss: 0.00420087712963964
+clim_bias: 49.239646911621094
+infer_bias: 70.1740951538086
+--------------------------------------------------------------------------------
+11:57:20: epoch 83 start
+using scheduler: current learning rate = [4.5663221509856694e-05]
+11:58:34: Epoch 83 summary:
+time taken: 74.28493928909302
+nsamples / sec: 0.07428493928909302
+average training loss: 0.004195091750368654
+clim_bias: 38.2396125793457
+infer_bias: 68.84349822998047
+--------------------------------------------------------------------------------
+11:59:07: epoch 84 start
+using scheduler: current learning rate = [4.47434479863699e-05]
+12:00:21: Epoch 84 summary:
+time taken: 74.25496983528137
+nsamples / sec: 0.07425496983528138
+average training loss: 0.004189766971449153
+clim_bias: 71.66669464111328
+infer_bias: 68.9564208984375
+--------------------------------------------------------------------------------
+12:00:54: epoch 85 start
+using scheduler: current learning rate = [4.3828181496981745e-05]
+12:02:09: Epoch 85 summary:
+time taken: 74.28919196128845
+nsamples / sec: 0.07428919196128846
+average training loss: 0.004185595242059887
+clim_bias: 62.10353469848633
+infer_bias: 68.6928482055664
+--------------------------------------------------------------------------------
+12:02:41: epoch 86 start
+using scheduler: current learning rate = [4.2917823490345564e-05]
+12:03:56: Epoch 86 summary:
+time taken: 74.35412907600403
+nsamples / sec: 0.07435412907600403
+average training loss: 0.004180484819200753
+clim_bias: 33.4581184387207
+infer_bias: 67.38785552978516
+--------------------------------------------------------------------------------
+12:04:29: epoch 87 start
+using scheduler: current learning rate = [4.20127732611689e-05]
+12:05:43: Epoch 87 summary:
+time taken: 74.27557897567749
+nsamples / sec: 0.07427557897567749
+average training loss: 0.004176196677621149
+clim_bias: 45.4991340637207
+infer_bias: 66.60611724853516
+--------------------------------------------------------------------------------
+12:06:16: epoch 88 start
+using scheduler: current learning rate = [4.11134277749991e-05]
+12:07:30: Epoch 88 summary:
+time taken: 74.34120464324951
+nsamples / sec: 0.07434120464324952
+average training loss: 0.004170684669147433
+clim_bias: 48.22553253173828
+infer_bias: 65.97230529785156
+--------------------------------------------------------------------------------
+12:08:03: epoch 89 start
+using scheduler: current learning rate = [4.022018149402439e-05]
+12:09:18: Epoch 89 summary:
+time taken: 74.29487347602844
+nsamples / sec: 0.07429487347602844
+average training loss: 0.004167085986802148
+clim_bias: 34.53144836425781
+infer_bias: 64.92427825927734
+--------------------------------------------------------------------------------
+12:09:51: epoch 90 start
+using scheduler: current learning rate = [3.93334262039646e-05]
+12:11:05: Epoch 90 summary:
+time taken: 74.25843930244446
+nsamples / sec: 0.07425843930244445
+average training loss: 0.004162558234757017
+clim_bias: 69.03455352783203
+infer_bias: 65.0568618774414
+clim_bias > 65.0568618774414, recall from latest checkpoint
+--------------------------------------------------------------------------------
+12:11:38: epoch 91 start
+using scheduler: current learning rate = [3.845355084212886e-05]
+12:12:52: Epoch 91 summary:
+time taken: 74.21622109413147
+nsamples / sec: 0.07421622109413147
+average training loss: 0.004187517639434195
+clim_bias: 46.26619338989258
+infer_bias: 64.46965789794922
+--------------------------------------------------------------------------------
+12:13:25: epoch 92 start
+using scheduler: current learning rate = [3.758094132671219e-05]
+12:14:39: Epoch 92 summary:
+time taken: 74.21695637702942
+nsamples / sec: 0.07421695637702942
+average training loss: 0.004183353349310751
+clim_bias: 58.16835021972656
+infer_bias: 64.2787094116211
+--------------------------------------------------------------------------------
+12:15:12: epoch 93 start
+using scheduler: current learning rate = [3.6715980387406786e-05]
+12:16:27: Epoch 93 summary:
+time taken: 74.20417141914368
+nsamples / sec: 0.07420417141914368
+average training loss: 0.00417946585672902
+clim_bias: 27.589000701904297
+infer_bias: 63.199607849121094
+new best clim_bias, save checkpoint
+--------------------------------------------------------------------------------
+12:17:00: epoch 94 start
+using scheduler: current learning rate = [3.5859047397399804e-05]
+12:18:14: Epoch 94 summary:
+time taken: 74.2560760974884
+nsamples / sec: 0.0742560760974884
+average training loss: 0.0041749331002320575
+clim_bias: 63.950653076171875
+infer_bias: 63.2210578918457
+--------------------------------------------------------------------------------
+12:18:47: epoch 95 start
+using scheduler: current learning rate = [3.501051820683031e-05]
+12:20:01: Epoch 95 summary:
+time taken: 74.19133281707764
+nsamples / sec: 0.07419133281707764
+average training loss: 0.004170401903281925
+clim_bias: 51.422264099121094
+infer_bias: 62.89331817626953
+--------------------------------------------------------------------------------
+12:20:34: epoch 96 start
+using scheduler: current learning rate = [3.417076497777681e-05]
+12:21:49: Epoch 96 summary:
+time taken: 74.1808671951294
+nsamples / sec: 0.0741808671951294
+average training loss: 0.0041659493557295365
+clim_bias: 56.10951232910156
+infer_bias: 62.7099723815918
+--------------------------------------------------------------------------------
+12:22:22: epoch 97 start
+using scheduler: current learning rate = [3.334015602084561e-05]
+12:23:36: Epoch 97 summary:
+time taken: 74.18898892402649
+nsamples / sec: 0.07418898892402649
+average training loss: 0.0041620846884470155
+clim_bias: 49.14015579223633
+infer_bias: 62.352874755859375
+--------------------------------------------------------------------------------
+12:24:09: epoch 98 start
+using scheduler: current learning rate = [3.251905563342984e-05]
+12:25:23: Epoch 98 summary:
+time taken: 74.18736624717712
+nsamples / sec: 0.07418736624717713
+average training loss: 0.0041580469095849615
+clim_bias: 58.07892608642578
+infer_bias: 62.243282318115234
+--------------------------------------------------------------------------------
+12:25:56: epoch 99 start
+using scheduler: current learning rate = [3.1707823939707064e-05]
+12:27:10: Epoch 99 summary:
+time taken: 74.29958844184875
+nsamples / sec: 0.07429958844184875
+average training loss: 0.004154337015518591
+clim_bias: 57.07501983642578
+infer_bias: 62.11407470703125
+--------------------------------------------------------------------------------
+12:27:44: epoch 100 start
+using scheduler: current learning rate = [3.090681673244285e-05]
+12:28:58: Epoch 100 summary:
+time taken: 74.29530787467957
+nsamples / sec: 0.07429530787467957
+average training loss: 0.004150242564092589
+clim_bias: 37.23512268066406
+infer_bias: 61.50727844238281
+--------------------------------------------------------------------------------
+12:29:31: epoch 101 start
+using scheduler: current learning rate = [3.011638531666648e-05]
+12:30:45: Epoch 101 summary:
+time taken: 74.3166720867157
+nsamples / sec: 0.0743166720867157
+average training loss: 0.004146654873285959
+clim_bias: 51.204654693603516
+infer_bias: 61.2619743347168
+--------------------------------------------------------------------------------
+12:31:18: epoch 102 start
+using scheduler: current learning rate = [2.9336876355283356e-05]
+12:32:32: Epoch 102 summary:
+time taken: 74.20314407348633
+nsamples / sec: 0.07420314407348633
+average training loss: 0.004142887092135289
+clim_bias: 84.60906982421875
+infer_bias: 61.804927825927734
+--------------------------------------------------------------------------------
+12:33:06: epoch 103 start
+using scheduler: current learning rate = [2.856863171668664e-05]
+12:34:20: Epoch 103 summary:
+time taken: 74.28948330879211
+nsamples / sec: 0.07428948330879212
+average training loss: 0.00413907484759113
+clim_bias: 69.32649993896484
+infer_bias: 61.97587585449219
+--------------------------------------------------------------------------------
+12:34:53: epoch 104 start
+using scheduler: current learning rate = [2.7811988324430015e-05]
+12:36:07: Epoch 104 summary:
+time taken: 74.23554158210754
+nsamples / sec: 0.07423554158210754
+average training loss: 0.00413551480585405
+clim_bias: 24.86754035949707
+infer_bias: 61.151248931884766
+new best clim_bias, save checkpoint
+--------------------------------------------------------------------------------
+12:36:40: epoch 105 start
+using scheduler: current learning rate = [2.7067278009020966e-05]
+12:37:55: Epoch 105 summary:
+time taken: 74.2888731956482
+nsamples / sec: 0.0742888731956482
+average training loss: 0.004132272565466433
+clim_bias: 48.921268463134766
+infer_bias: 60.885372161865234
+--------------------------------------------------------------------------------
+12:38:28: epoch 106 start
+using scheduler: current learning rate = [2.6334827361891836e-05]
+12:39:42: Epoch 106 summary:
+time taken: 74.28456044197083
+nsamples / sec: 0.07428456044197082
+average training loss: 0.004128767043962756
+clim_bias: 28.451906204223633
+infer_bias: 60.1953010559082
+--------------------------------------------------------------------------------
+12:40:15: epoch 107 start
+using scheduler: current learning rate = [2.5614957591603765e-05]
+12:41:29: Epoch 107 summary:
+time taken: 74.31130790710449
+nsamples / sec: 0.0743113079071045
+average training loss: 0.0041255780746835115
+clim_bias: 62.47441101074219
+infer_bias: 60.24277877807617
+--------------------------------------------------------------------------------
+12:42:02: epoch 108 start
+using scheduler: current learning rate = [2.4907984382336116e-05]
+12:43:16: Epoch 108 summary:
+time taken: 74.18900752067566
+nsamples / sec: 0.07418900752067566
+average training loss: 0.0041223204892467035
+clim_bias: 33.07460403442383
+infer_bias: 59.68832778930664
+--------------------------------------------------------------------------------
+12:43:49: epoch 109 start
+using scheduler: current learning rate = [2.421421775471016e-05]
+12:45:04: Epoch 109 summary:
+time taken: 74.20269227027893
+nsamples / sec: 0.07420269227027892
+average training loss: 0.0041191298614758265
+clim_bias: 35.86882781982422
+infer_bias: 59.211936950683594
+--------------------------------------------------------------------------------
+12:45:37: epoch 110 start
+using scheduler: current learning rate = [2.3533961928993812e-05]
+12:46:51: Epoch 110 summary:
+time taken: 74.29079127311707
+nsamples / sec: 0.07429079127311707
+average training loss: 0.004116249611274065
+clim_bias: 55.4656867980957
+infer_bias: 59.13848114013672
+--------------------------------------------------------------------------------
+12:47:24: epoch 111 start
+using scheduler: current learning rate = [2.286751519072762e-05]
+12:48:38: Epoch 111 summary:
+time taken: 74.15089321136475
+nsamples / sec: 0.07415089321136474
+average training loss: 0.004113184334401731
+clim_bias: 74.94422149658203
+infer_bias: 59.442440032958984
+--------------------------------------------------------------------------------
+12:49:11: epoch 112 start
+using scheduler: current learning rate = [2.2215169758810304e-05]
+12:50:26: Epoch 112 summary:
+time taken: 74.31162405014038
+nsamples / sec: 0.07431162405014038
+average training loss: 0.004110055406294473
+clim_bias: 52.67851638793945
+infer_bias: 59.314815521240234
+--------------------------------------------------------------------------------
+12:50:59: epoch 113 start
+using scheduler: current learning rate = [2.1577211656073446e-05]
+12:52:13: Epoch 113 summary:
+time taken: 74.31774806976318
+nsamples / sec: 0.07431774806976318
+average training loss: 0.004107451362515131
+clim_bias: 41.922645568847656
+infer_bias: 58.992740631103516
+--------------------------------------------------------------------------------
+12:52:46: epoch 114 start
+using scheduler: current learning rate = [2.0953920582370494e-05]
+12:54:00: Epoch 114 summary:
+time taken: 74.22407579421997
+nsamples / sec: 0.07422407579421997
+average training loss: 0.004104208458743644
+clim_bias: 41.931461334228516
+infer_bias: 58.682533264160156
+--------------------------------------------------------------------------------
+12:54:33: epoch 115 start
+using scheduler: current learning rate = [2.0345569790194454e-05]
+12:55:48: Epoch 115 summary:
+time taken: 74.26358795166016
+nsamples / sec: 0.07426358795166016
+average training loss: 0.004102015314077682
+clim_bias: 44.32335662841797
+infer_bias: 58.426116943359375
+--------------------------------------------------------------------------------
+12:56:21: epoch 116 start
+using scheduler: current learning rate = [1.9752425962829635e-05]
+12:57:35: Epoch 116 summary:
+time taken: 74.20602345466614
+nsamples / sec: 0.07420602345466613
+average training loss: 0.004098991000136105
+clim_bias: 41.35271072387695
+infer_bias: 58.126583099365234
+--------------------------------------------------------------------------------
+12:58:08: epoch 117 start
+using scheduler: current learning rate = [1.9174749095029926e-05]
+12:59:22: Epoch 117 summary:
+time taken: 74.20073056221008
+nsamples / sec: 0.07420073056221008
+average training loss: 0.0040968889610988575
+clim_bias: 62.2637825012207
+infer_bias: 58.197914123535156
+--------------------------------------------------------------------------------
+12:59:55: epoch 118 start
+using scheduler: current learning rate = [1.8612792376198297e-05]
+13:01:10: Epoch 118 summary:
+time taken: 74.30587005615234
+nsamples / sec: 0.07430587005615234
+average training loss: 0.004094182568356549
+clim_bias: 62.44069290161133
+infer_bias: 58.26982879638672
+--------------------------------------------------------------------------------
+13:01:43: epoch 119 start
+using scheduler: current learning rate = [1.8066802076023352e-05]
+13:02:57: Epoch 119 summary:
+time taken: 74.29997324943542
+nsamples / sec: 0.07429997324943542
+average training loss: 0.004091597266409867
+clim_bias: 68.44760131835938
+infer_bias: 58.43946075439453
+--------------------------------------------------------------------------------
+13:03:30: epoch 120 start
+using scheduler: current learning rate = [1.7537017432501133e-05]
+13:04:44: Epoch 120 summary:
+time taken: 74.17749381065369
+nsamples / sec: 0.07417749381065368
+average training loss: 0.004089209269440684
+clim_bias: 29.200145721435547
+infer_bias: 57.96012878417969
+--------------------------------------------------------------------------------
+13:05:17: epoch 121 start
+using scheduler: current learning rate = [1.7023670542236858e-05]
+13:06:32: Epoch 121 summary:
+time taken: 74.2831130027771
+nsamples / sec: 0.0742831130027771
+average training loss: 0.004087011203930544
+clim_bias: 65.18080139160156
+infer_bias: 58.07658767700195
+--------------------------------------------------------------------------------
+13:07:05: epoch 122 start
+using scheduler: current learning rate = [1.652698625287613e-05]
+13:08:19: Epoch 122 summary:
+time taken: 74.22429347038269
+nsamples / sec: 0.07422429347038269
+average training loss: 0.004084714110654074
+clim_bias: 73.33780670166016
+infer_bias: 58.31883239746094
+--------------------------------------------------------------------------------
+13:08:52: epoch 123 start
+using scheduler: current learning rate = [1.6047182057456822e-05]
+13:10:06: Epoch 123 summary:
+time taken: 74.25299024581909
+nsamples / sec: 0.07425299024581909
+average training loss: 0.004082478686845907
+clim_bias: 39.01020431518555
+infer_bias: 58.01713180541992
+--------------------------------------------------------------------------------
+13:10:39: epoch 124 start
+using scheduler: current learning rate = [1.5584467990393452e-05]
+13:11:53: Epoch 124 summary:
+time taken: 74.1431872844696
+nsamples / sec: 0.0741431872844696
+average training loss: 0.0040804355208441615
+clim_bias: 39.652320861816406
+infer_bias: 57.734596252441406
+--------------------------------------------------------------------------------
+13:12:26: epoch 125 start
+using scheduler: current learning rate = [1.513904652470027e-05]
+13:13:40: Epoch 125 summary:
+time taken: 74.16509318351746
+nsamples / sec: 0.07416509318351745
+average training loss: 0.004078380803616099
+clim_bias: 28.339956283569336
+infer_bias: 57.28922653198242
+--------------------------------------------------------------------------------
+13:14:13: epoch 126 start
+using scheduler: current learning rate = [1.4711112469913793e-05]
+13:15:27: Epoch 126 summary:
+time taken: 74.24466729164124
+nsamples / sec: 0.07424466729164124
+average training loss: 0.004076560268009577
+clim_bias: 47.937652587890625
+infer_bias: 57.1496467590332
+--------------------------------------------------------------------------------
+13:16:00: epoch 127 start
+using scheduler: current learning rate = [1.4300852869974715e-05]
+13:17:14: Epoch 127 summary:
+time taken: 74.17104387283325
+nsamples / sec: 0.07417104387283326
+average training loss: 0.004074478501836222
+clim_bias: 42.5742073059082
+infer_bias: 56.935302734375
+--------------------------------------------------------------------------------
+13:17:47: epoch 128 start
+using scheduler: current learning rate = [1.3908446900048324e-05]
+13:19:01: Epoch 128 summary:
+time taken: 74.26985144615173
+nsamples / sec: 0.07426985144615174
+average training loss: 0.004072721867865705
+clim_bias: 45.96608352661133
+infer_bias: 56.776329040527344
+--------------------------------------------------------------------------------
+13:19:34: epoch 129 start
+using scheduler: current learning rate = [1.3534065760862789e-05]
+13:20:49: Epoch 129 summary:
+time taken: 74.19856452941895
+nsamples / sec: 0.07419856452941895
+average training loss: 0.004070766779413414
+clim_bias: 38.243709564208984
+infer_bias: 56.51157760620117
+--------------------------------------------------------------------------------
+13:21:22: epoch 130 start
+using scheduler: current learning rate = [1.3177872568567943e-05]
+13:22:36: Epoch 130 summary:
+time taken: 74.17534160614014
+nsamples / sec: 0.07417534160614013
+average training loss: 0.004069172073526991
+clim_bias: 55.30161666870117
+infer_bias: 56.494537353515625
+--------------------------------------------------------------------------------
+13:23:09: epoch 131 start
+using scheduler: current learning rate = [1.2840022237273592e-05]
+13:24:23: Epoch 131 summary:
+time taken: 74.27837634086609
+nsamples / sec: 0.07427837634086609
+average training loss: 0.004067298063255239
+clim_bias: 42.092750549316406
+infer_bias: 56.29450988769531
+--------------------------------------------------------------------------------
+13:24:56: epoch 132 start
+using scheduler: current learning rate = [1.2520661350165484e-05]
+13:26:10: Epoch 132 summary:
+time taken: 74.2843508720398
+nsamples / sec: 0.0742843508720398
+average training loss: 0.004065839503438073
+clim_bias: 33.884239196777344
+infer_bias: 55.987518310546875
+--------------------------------------------------------------------------------
+13:26:43: epoch 133 start
+using scheduler: current learning rate = [1.2219928013183718e-05]
+13:27:58: Epoch 133 summary:
+time taken: 74.19762253761292
+nsamples / sec: 0.07419762253761292
+average training loss: 0.004064181285694697
+clim_bias: 40.21875
+infer_bias: 55.7744255065918
+--------------------------------------------------------------------------------
+13:28:31: epoch 134 start
+using scheduler: current learning rate = [1.1937951682274652e-05]
+13:29:45: Epoch 134 summary:
+time taken: 74.18697237968445
+nsamples / sec: 0.07418697237968445
+average training loss: 0.004062741769525004
+clim_bias: 20.874794006347656
+infer_bias: 55.30910110473633
+new best clim_bias, save checkpoint
+--------------------------------------------------------------------------------
+13:30:18: epoch 135 start
+using scheduler: current learning rate = [1.1674852950507645e-05]
+13:31:32: Epoch 135 summary:
+time taken: 74.33636498451233
+nsamples / sec: 0.07433636498451233
+average training loss: 0.004061058551966489
+clim_bias: 28.257631301879883
+infer_bias: 54.953155517578125
+--------------------------------------------------------------------------------
+13:32:06: epoch 136 start
+using scheduler: current learning rate = [1.1430743273653941e-05]
+13:33:20: Epoch 136 summary:
+time taken: 74.18696403503418
+nsamples / sec: 0.07418696403503418
+average training loss: 0.00405982719583615
+clim_bias: 54.81421661376953
+infer_bias: 54.95135498046875
+--------------------------------------------------------------------------------
+13:33:53: epoch 137 start
+using scheduler: current learning rate = [1.1205724599924257e-05]
+13:35:07: Epoch 137 summary:
+time taken: 74.23885178565979
+nsamples / sec: 0.0742388517856598
+average training loss: 0.00405845818267996
+clim_bias: 35.461669921875
+infer_bias: 54.70148468017578
+--------------------------------------------------------------------------------
+13:35:40: epoch 138 start
+using scheduler: current learning rate = [1.0999888847219234e-05]
+13:36:54: Epoch 138 summary:
+time taken: 74.2718276977539
+nsamples / sec: 0.07427182769775391
+average training loss: 0.004057329721675763
+clim_bias: 47.39588165283203
+infer_bias: 54.6090087890625
+--------------------------------------------------------------------------------
+13:37:27: epoch 139 start
+using scheduler: current learning rate = [1.0813317131111247e-05]
+13:38:41: Epoch 139 summary:
+time taken: 74.21749258041382
+nsamples / sec: 0.07421749258041382
+average training loss: 0.004055887031924603
+clim_bias: 32.221282958984375
+infer_bias: 54.32916259765625
+--------------------------------------------------------------------------------
+13:39:14: epoch 140 start
+using scheduler: current learning rate = [1.0646078571588086e-05]
+13:40:29: Epoch 140 summary:
+time taken: 74.23962831497192
+nsamples / sec: 0.07423962831497193
+average training loss: 0.004054710387721417
+clim_bias: 56.35332489013672
+infer_bias: 54.354156494140625
+clim_bias > 54.354156494140625, recall from latest checkpoint
+--------------------------------------------------------------------------------
+13:41:02: epoch 141 start
+using scheduler: current learning rate = [1.0498228358720896e-05]
+13:42:16: Epoch 141 summary:
+time taken: 74.28974103927612
+nsamples / sec: 0.07428974103927612
+average training loss: 0.00405890141137434
+clim_bias: 46.18310546875
+infer_bias: 54.25450897216797
+--------------------------------------------------------------------------------
+13:42:49: epoch 142 start
+using scheduler: current learning rate = [1.036980444954314e-05]
+13:44:03: Epoch 142 summary:
+time taken: 74.30746626853943
+nsamples / sec: 0.07430746626853943
+average training loss: 0.004057690395119781
+clim_bias: 43.4615364074707
+infer_bias: 54.12446975708008
+--------------------------------------------------------------------------------
+13:44:36: epoch 143 start
+using scheduler: current learning rate = [1.0260821582319997e-05]
+13:45:50: Epoch 143 summary:
+time taken: 74.26429080963135
+nsamples / sec: 0.07426429080963134
+average training loss: 0.004056892124539386
+clim_bias: 23.422122955322266
+infer_bias: 53.75896453857422
+--------------------------------------------------------------------------------
+13:46:23: epoch 144 start
+using scheduler: current learning rate = [1.0171259633893898e-05]
+13:47:37: Epoch 144 summary:
+time taken: 74.29424452781677
+nsamples / sec: 0.07429424452781677
+average training loss: 0.004055523240019488
+clim_bias: 39.91846466064453
+infer_bias: 53.59613800048828
+--------------------------------------------------------------------------------
+13:48:10: epoch 145 start
+using scheduler: current learning rate = [1.0101038893591917e-05]
+13:49:24: Epoch 145 summary:
+time taken: 74.29835653305054
+nsamples / sec: 0.07429835653305053
+average training loss: 0.0040545400076523715
+clim_bias: 55.48527908325195
+infer_bias: 53.618106842041016
+--------------------------------------------------------------------------------
+13:49:57: epoch 146 start
+using scheduler: current learning rate = [1.0049961220200775e-05]
+13:51:11: Epoch 146 summary:
+time taken: 74.29350233078003
+nsamples / sec: 0.07429350233078003
+average training loss: 0.004053990647616271
+clim_bias: 44.35063934326172
+infer_bias: 53.5115852355957
+--------------------------------------------------------------------------------
+13:51:44: epoch 147 start
+using scheduler: current learning rate = [1.0017546604883063e-05]
+13:52:58: Epoch 147 summary:
+time taken: 74.2369875907898
+nsamples / sec: 0.0742369875907898
+average training loss: 0.004052878813893108
+clim_bias: 32.39113235473633
+infer_bias: 53.27157974243164
+--------------------------------------------------------------------------------
+13:53:31: epoch 148 start
+using scheduler: current learning rate = [1.0002467581498689e-05]
+13:54:45: Epoch 148 summary:
+time taken: 74.27778887748718
+nsamples / sec: 0.07427778887748718
+average training loss: 0.004052065454149374
+clim_bias: 42.006473541259766
+infer_bias: 53.14500427246094
+--------------------------------------------------------------------------------
+13:55:18: epoch 149 start
+current learning rate = 1e-06
+13:56:32: Epoch 149 summary:
+time taken: 74.21207785606384
+nsamples / sec: 0.07421207785606385
+average training loss: 0.004035500039427861
+clim_bias: 31.74793243408203
+infer_bias: 52.90726089477539
+--------------------------------------------------------------------------------
+13:57:04: epoch 150 start
+current learning rate = 1e-06
+13:58:19: Epoch 150 summary:
+time taken: 74.26375842094421
+nsamples / sec: 0.07426375842094421
+average training loss: 0.00403396023395867
+clim_bias: 42.85841751098633
+infer_bias: 52.79683303833008
+--------------------------------------------------------------------------------
+13:58:52: epoch 151 start
+current learning rate = 1e-06
+14:00:09: Epoch 151 summary:
+time taken: 77.21436262130737
+nsamples / sec: 0.07721436262130738
+average training loss: 0.004737690354201668
+clim_bias: 26.63494300842285
+infer_bias: 52.5124626159668
+--------------------------------------------------------------------------------
+14:00:42: epoch 152 start
+current learning rate = 1e-06
+14:01:58: Epoch 152 summary:
+time taken: 76.61372900009155
+nsamples / sec: 0.07661372900009156
+average training loss: 0.004707425040563469
+clim_bias: 24.678298950195312
+infer_bias: 52.213172912597656
+--------------------------------------------------------------------------------
+14:02:31: epoch 153 start
+current learning rate = 1e-06
+14:03:48: Epoch 153 summary:
+time taken: 76.65736269950867
+nsamples / sec: 0.07665736269950867
+average training loss: 0.004699811544609477
+clim_bias: 32.18999099731445
+infer_bias: 52.000160217285156
+--------------------------------------------------------------------------------
+14:04:21: epoch 154 start
+current learning rate = 1e-06
+14:05:38: Epoch 154 summary:
+time taken: 76.6638388633728
+nsamples / sec: 0.0766638388633728
+average training loss: 0.004695445604851187
+clim_bias: 31.40584373474121
+infer_bias: 51.78337860107422
+--------------------------------------------------------------------------------
+14:06:11: epoch 155 start
+current learning rate = 1e-06
+14:07:27: Epoch 155 summary:
+time taken: 76.62875866889954
+nsamples / sec: 0.07662875866889954
+average training loss: 0.004692373649244459
+clim_bias: 34.375160217285156
+infer_bias: 51.6020393371582
+--------------------------------------------------------------------------------
+14:08:00: epoch 156 start
+current learning rate = 1e-06
+14:09:17: Epoch 156 summary:
+time taken: 76.6587746143341
+nsamples / sec: 0.07665877461433411
+average training loss: 0.0046900385447772655
+clim_bias: 35.173683166503906
+infer_bias: 51.43267822265625
+--------------------------------------------------------------------------------
+14:09:50: epoch 157 start
+current learning rate = 1e-06
+14:11:07: Epoch 157 summary:
+time taken: 76.67232871055603
+nsamples / sec: 0.07667232871055603
+average training loss: 0.004688207369128738
+clim_bias: 38.80537414550781
+infer_bias: 51.30382537841797
+--------------------------------------------------------------------------------
+14:11:40: epoch 158 start
+current learning rate = 1e-06
+14:12:57: Epoch 158 summary:
+time taken: 76.77149891853333
+nsamples / sec: 0.07677149891853333
+average training loss: 0.004686582269884349
+clim_bias: 25.999637603759766
+infer_bias: 51.04823303222656
+--------------------------------------------------------------------------------
+14:13:30: epoch 159 start
+current learning rate = 1e-06
+14:14:46: Epoch 159 summary:
+time taken: 76.64334535598755
+nsamples / sec: 0.07664334535598755
+average training loss: 0.004685240321643071
+clim_bias: 28.755414962768555
+infer_bias: 50.82530212402344
+--------------------------------------------------------------------------------
+14:15:19: epoch 160 start
+current learning rate = 1e-06
+14:16:36: Epoch 160 summary:
+time taken: 76.66297912597656
+nsamples / sec: 0.07666297912597657
+average training loss: 0.00468408579106559
+clim_bias: 40.206825256347656
+infer_bias: 50.72016525268555
+--------------------------------------------------------------------------------
+14:17:09: epoch 161 start
+current learning rate = 1e-06
+14:18:26: Epoch 161 summary:
+time taken: 76.71706485748291
+nsamples / sec: 0.0767170648574829
+average training loss: 0.004683030549343178
+clim_bias: 26.91153907775879
+infer_bias: 50.48674774169922
+--------------------------------------------------------------------------------
+14:18:58: epoch 162 start
+current learning rate = 1e-06
+14:20:15: Epoch 162 summary:
+time taken: 76.76978039741516
+nsamples / sec: 0.07676978039741517
+average training loss: 0.004682098649147603
+clim_bias: 27.196826934814453
+infer_bias: 50.2606315612793
+--------------------------------------------------------------------------------
+14:20:48: epoch 163 start
+current learning rate = 1e-06
+14:22:04: Epoch 163 summary:
+time taken: 76.6550920009613
+nsamples / sec: 0.07665509200096131
+average training loss: 0.004681152955302784
+clim_bias: 31.37535285949707
+infer_bias: 50.079044342041016
+--------------------------------------------------------------------------------
+14:22:37: epoch 164 start
+current learning rate = 1e-06
+14:23:54: Epoch 164 summary:
+time taken: 76.66744446754456
+nsamples / sec: 0.07666744446754456
+average training loss: 0.004680390403991228
+clim_bias: 26.975046157836914
+infer_bias: 49.8590087890625
+--------------------------------------------------------------------------------
+14:24:26: epoch 165 start
+current learning rate = 1e-06
+14:25:43: Epoch 165 summary:
+time taken: 76.64490580558777
+nsamples / sec: 0.07664490580558776
+average training loss: 0.004679622140988592
+clim_bias: 31.893587112426758
+infer_bias: 49.68952178955078
+--------------------------------------------------------------------------------
+14:26:16: epoch 166 start
+current learning rate = 1e-06
+14:27:32: Epoch 166 summary:
+time taken: 76.55112648010254
+nsamples / sec: 0.07655112648010254
+average training loss: 0.0046789618828651635
+clim_bias: 21.114452362060547
+infer_bias: 49.42247009277344
+--------------------------------------------------------------------------------
+14:28:05: epoch 167 start
+current learning rate = 1e-06
+14:29:22: Epoch 167 summary:
+time taken: 76.58822774887085
+nsamples / sec: 0.07658822774887085
+average training loss: 0.004678313846034059
+clim_bias: 35.03093338012695
+infer_bias: 49.28921127319336
+--------------------------------------------------------------------------------
+14:29:54: epoch 168 start
+current learning rate = 1e-06
+14:31:11: Epoch 168 summary:
+time taken: 76.58379650115967
+nsamples / sec: 0.07658379650115966
+average training loss: 0.004677642486083534
+clim_bias: 35.82325744628906
+infer_bias: 49.165672302246094
+--------------------------------------------------------------------------------
+14:31:43: epoch 169 start
+current learning rate = 1e-06
+14:33:00: Epoch 169 summary:
+time taken: 76.54892492294312
+nsamples / sec: 0.07654892492294312
+average training loss: 0.004677060977436782
+clim_bias: 30.911617279052734
+infer_bias: 48.999725341796875
+--------------------------------------------------------------------------------
+14:33:33: epoch 170 start
+current learning rate = 1e-06
+14:34:49: Epoch 170 summary:
+time taken: 76.52671599388123
+nsamples / sec: 0.07652671599388122
+average training loss: 0.004676518310933558
+clim_bias: 32.21796417236328
+infer_bias: 48.84853744506836
+--------------------------------------------------------------------------------
+14:35:22: epoch 171 start
+current learning rate = 1e-06
+14:36:38: Epoch 171 summary:
+time taken: 76.52103686332703
+nsamples / sec: 0.07652103686332702
+average training loss: 0.0046759898437292845
+clim_bias: 30.412723541259766
+infer_bias: 48.683929443359375
+--------------------------------------------------------------------------------
+14:37:11: epoch 172 start
+current learning rate = 1e-06
+14:38:28: Epoch 172 summary:
+time taken: 76.6700210571289
+nsamples / sec: 0.0766700210571289
+average training loss: 0.0046755286092335915
+clim_bias: 40.2318000793457
+infer_bias: 48.609134674072266
+--------------------------------------------------------------------------------
+14:39:00: epoch 173 start
+current learning rate = 1e-06
+14:40:17: Epoch 173 summary:
+time taken: 76.61917972564697
+nsamples / sec: 0.07661917972564697
+average training loss: 0.004675019115824048
+clim_bias: 30.94556427001953
+infer_bias: 48.454185485839844
+--------------------------------------------------------------------------------
+14:40:49: epoch 174 start
+current learning rate = 1e-06
+14:42:06: Epoch 174 summary:
+time taken: 76.5628354549408
+nsamples / sec: 0.07656283545494079
+average training loss: 0.004674531479879739
+clim_bias: 32.73969268798828
+infer_bias: 48.31753921508789
+--------------------------------------------------------------------------------
+14:42:39: epoch 175 start
+current learning rate = 1e-06
+14:43:55: Epoch 175 summary:
+time taken: 76.62304425239563
+nsamples / sec: 0.07662304425239563
+average training loss: 0.004674118919517716
+clim_bias: 26.89789581298828
+infer_bias: 48.13288879394531
+--------------------------------------------------------------------------------
+14:44:28: epoch 176 start
+current learning rate = 1e-06
+14:45:45: Epoch 176 summary:
+time taken: 76.64742708206177
+nsamples / sec: 0.07664742708206176
+average training loss: 0.004673672967348775
+clim_bias: 29.16573143005371
+infer_bias: 47.97077941894531
+--------------------------------------------------------------------------------
+14:46:17: epoch 177 start
+current learning rate = 1e-06
+14:47:34: Epoch 177 summary:
+time taken: 76.62481474876404
+nsamples / sec: 0.07662481474876404
+average training loss: 0.004673263915566219
+clim_bias: 28.09700584411621
+infer_bias: 47.80235290527344
+--------------------------------------------------------------------------------
+14:48:06: epoch 178 start
+current learning rate = 1e-06
+14:49:23: Epoch 178 summary:
+time taken: 76.65204191207886
+nsamples / sec: 0.07665204191207886
+average training loss: 0.00467284670574025
+clim_bias: 42.23395919799805
+infer_bias: 47.75556564331055
+--------------------------------------------------------------------------------
+14:49:56: epoch 179 start
+current learning rate = 1e-06
+14:51:12: Epoch 179 summary:
+time taken: 76.63586258888245
+nsamples / sec: 0.07663586258888244
+average training loss: 0.004672479185101065
+clim_bias: 22.015310287475586
+infer_bias: 47.54105758666992
+--------------------------------------------------------------------------------
+14:51:45: epoch 180 start
+current learning rate = 1e-06
+14:53:02: Epoch 180 summary:
+time taken: 76.66231846809387
+nsamples / sec: 0.07666231846809388
+average training loss: 0.004672020768013686
+clim_bias: 22.233461380004883
+infer_bias: 47.33190155029297
+--------------------------------------------------------------------------------
+14:53:34: epoch 181 start
+current learning rate = 1e-06
+14:54:51: Epoch 181 summary:
+time taken: 76.65570712089539
+nsamples / sec: 0.07665570712089538
+average training loss: 0.004671681387266739
+clim_bias: 21.041942596435547
+infer_bias: 47.11640930175781
+--------------------------------------------------------------------------------
+14:55:24: epoch 182 start
+current learning rate = 1e-06
+14:56:40: Epoch 182 summary:
+time taken: 76.67513966560364
+nsamples / sec: 0.07667513966560363
+average training loss: 0.004671331966763809
+clim_bias: 31.470998764038086
+infer_bias: 46.98921585083008
+--------------------------------------------------------------------------------
+14:57:13: epoch 183 start
+current learning rate = 1e-06
+14:58:30: Epoch 183 summary:
+time taken: 76.69589877128601
+nsamples / sec: 0.076695898771286
+average training loss: 0.004670975772610714
+clim_bias: 18.289234161376953
+infer_bias: 46.75776290893555
+new best clim_bias, save checkpoint
+--------------------------------------------------------------------------------
+14:59:03: epoch 184 start
+current learning rate = 1e-06
+15:00:19: Epoch 184 summary:
+time taken: 76.6860864162445
+nsamples / sec: 0.07668608641624451
+average training loss: 0.004670622888336514
+clim_bias: 26.946918487548828
+infer_bias: 46.599273681640625
+--------------------------------------------------------------------------------
+15:00:52: epoch 185 start
+current learning rate = 1e-06
+15:02:09: Epoch 185 summary:
+time taken: 76.69481897354126
+nsamples / sec: 0.07669481897354126
+average training loss: 0.004670337230134314
+clim_bias: 27.977693557739258
+infer_bias: 46.45148468017578
+--------------------------------------------------------------------------------
+15:02:42: epoch 186 start
+current learning rate = 1e-06
+15:03:58: Epoch 186 summary:
+time taken: 76.65040874481201
+nsamples / sec: 0.07665040874481201
+average training loss: 0.004669968689973688
+clim_bias: 27.551315307617188
+infer_bias: 46.30266571044922
+--------------------------------------------------------------------------------
+15:04:31: epoch 187 start
+current learning rate = 1e-06
+15:05:48: Epoch 187 summary:
+time taken: 76.7228033542633
+nsamples / sec: 0.0767228033542633
+average training loss: 0.00466966576440721
+clim_bias: 27.908592224121094
+infer_bias: 46.15896224975586
+--------------------------------------------------------------------------------
+15:06:21: epoch 188 start
+current learning rate = 1e-06
+15:07:37: Epoch 188 summary:
+time taken: 76.67884540557861
+nsamples / sec: 0.07667884540557861
+average training loss: 0.0046693766939776785
+clim_bias: 29.51091194152832
+infer_bias: 46.029911041259766
+--------------------------------------------------------------------------------
+15:08:10: epoch 189 start
+current learning rate = 1e-06
+15:09:27: Epoch 189 summary:
+time taken: 76.69666862487793
+nsamples / sec: 0.07669666862487792
+average training loss: 0.004668969274021261
+clim_bias: 31.73749542236328
+infer_bias: 45.91996765136719
+--------------------------------------------------------------------------------
+15:10:00: epoch 190 start
+current learning rate = 1e-06
+15:11:16: Epoch 190 summary:
+time taken: 76.68720841407776
+nsamples / sec: 0.07668720841407776
+average training loss: 0.004668740111418462
+clim_bias: 37.196876525878906
+infer_bias: 45.85337829589844
+--------------------------------------------------------------------------------
+15:11:49: epoch 191 start
+current learning rate = 1e-06
+15:13:06: Epoch 191 summary:
+time taken: 76.66931080818176
+nsamples / sec: 0.07666931080818176
+average training loss: 0.004668477831760263
+clim_bias: 31.40620231628418
+infer_bias: 45.74393081665039
+--------------------------------------------------------------------------------
+15:13:38: epoch 192 start
+current learning rate = 1e-06
+15:14:55: Epoch 192 summary:
+time taken: 76.7027268409729
+nsamples / sec: 0.0767027268409729
+average training loss: 0.004668142300132451
+clim_bias: 27.28374671936035
+infer_bias: 45.60512924194336
+--------------------------------------------------------------------------------
+15:15:28: epoch 193 start
+current learning rate = 1e-06
+15:16:45: Epoch 193 summary:
+time taken: 76.69264316558838
+nsamples / sec: 0.07669264316558838
+average training loss: 0.004667891663633655
+clim_bias: 14.574235916137695
+infer_bias: 45.373558044433594
+new best clim_bias, save checkpoint
+--------------------------------------------------------------------------------
+15:17:18: epoch 194 start
+current learning rate = 1e-06
+15:18:34: Epoch 194 summary:
+time taken: 76.68716955184937
+nsamples / sec: 0.07668716955184937
+average training loss: 0.004667594259573865
+clim_bias: 27.74146270751953
+infer_bias: 45.24294662475586
+--------------------------------------------------------------------------------
+15:19:07: epoch 195 start
+current learning rate = 1e-06
+15:20:24: Epoch 195 summary:
+time taken: 76.70515966415405
+nsamples / sec: 0.07670515966415405
+average training loss: 0.004667313386287682
+clim_bias: 21.319236755371094
+infer_bias: 45.067039489746094
+--------------------------------------------------------------------------------
+15:20:57: epoch 196 start
+current learning rate = 1e-06
+15:22:13: Epoch 196 summary:
+time taken: 76.6957848072052
+nsamples / sec: 0.0766957848072052
+average training loss: 0.004667040217802129
+clim_bias: 30.11570930480957
+infer_bias: 44.957908630371094
+--------------------------------------------------------------------------------
+15:22:46: epoch 197 start
+current learning rate = 1e-06
+15:24:03: Epoch 197 summary:
+time taken: 76.7217276096344
+nsamples / sec: 0.0767217276096344
+average training loss: 0.004666768585057837
+clim_bias: 29.846052169799805
+infer_bias: 44.8484001159668
+--------------------------------------------------------------------------------
+15:24:36: epoch 198 start
+current learning rate = 1e-06
+15:25:53: Epoch 198 summary:
+time taken: 77.23757600784302
+nsamples / sec: 0.07723757600784302
+average training loss: 0.004666509796275199
+clim_bias: 33.15941619873047
+infer_bias: 44.764305114746094
+--------------------------------------------------------------------------------
+15:26:26: epoch 199 start
+current learning rate = 1e-06
+15:27:43: Epoch 199 summary:
+time taken: 76.65567922592163
+nsamples / sec: 0.07665567922592163
+average training loss: 0.004666221706954304
+clim_bias: 25.538105010986328
+infer_bias: 44.62697219848633
+--------------------------------------------------------------------------------
+15:28:15: epoch 200 start
+current learning rate = 1e-06
+15:29:32: Epoch 200 summary:
+time taken: 76.71854019165039
+nsamples / sec: 0.07671854019165039
+average training loss: 0.004665969899244363
+clim_bias: 35.21839141845703
+infer_bias: 44.56024932861328
+--------------------------------------------------------------------------------
+15:30:05: epoch 201 start
+current learning rate = 1e-06
+15:31:22: Epoch 201 summary:
+time taken: 76.68316745758057
+nsamples / sec: 0.07668316745758057
+average training loss: 0.004665755065286181
+clim_bias: 33.37776184082031
+infer_bias: 44.48149871826172
+--------------------------------------------------------------------------------
+15:31:55: epoch 202 start
+current learning rate = 1e-06
+15:33:11: Epoch 202 summary:
+time taken: 76.68108940124512
+nsamples / sec: 0.07668108940124511
+average training loss: 0.004665495325021323
+clim_bias: 24.597789764404297
+infer_bias: 44.34245300292969
+--------------------------------------------------------------------------------
+15:33:44: epoch 203 start
+current learning rate = 1e-06
+15:35:01: Epoch 203 summary:
+time taken: 76.6759991645813
+nsamples / sec: 0.0766759991645813
+average training loss: 0.004665229899895603
+clim_bias: 39.106483459472656
+infer_bias: 44.30609130859375
+--------------------------------------------------------------------------------
+15:35:34: epoch 204 start
+current learning rate = 1e-06
+15:36:50: Epoch 204 summary:
+time taken: 76.70755577087402
+nsamples / sec: 0.07670755577087403
+average training loss: 0.004664992862958431
+clim_bias: 19.72821807861328
+infer_bias: 44.13658905029297
+--------------------------------------------------------------------------------
+15:37:23: epoch 205 start
+current learning rate = 1e-06
+15:38:40: Epoch 205 summary:
+time taken: 76.74250173568726
+nsamples / sec: 0.07674250173568725
+average training loss: 0.004664764292653224
+clim_bias: 27.866329193115234
+infer_bias: 44.025150299072266
+--------------------------------------------------------------------------------
+15:39:13: epoch 206 start
+current learning rate = 1e-06
+15:40:30: Epoch 206 summary:
+time taken: 76.69496154785156
+nsamples / sec: 0.07669496154785156
+average training loss: 0.004664484634153235
+clim_bias: 31.298526763916016
+infer_bias: 43.93857192993164
+--------------------------------------------------------------------------------
+15:41:03: epoch 207 start
+current learning rate = 1e-06
+15:42:19: Epoch 207 summary:
+time taken: 76.69840574264526
+nsamples / sec: 0.07669840574264526
+average training loss: 0.004664299678022436
+clim_bias: 26.81159210205078
+infer_bias: 43.82284927368164
+--------------------------------------------------------------------------------
+15:42:52: epoch 208 start
+current learning rate = 1e-06
+15:44:09: Epoch 208 summary:
+time taken: 76.67150855064392
+nsamples / sec: 0.07667150855064392
+average training loss: 0.004664033253263493
+clim_bias: 27.266448974609375
+infer_bias: 43.711734771728516
+--------------------------------------------------------------------------------
+15:44:41: epoch 209 start
+current learning rate = 1e-06
+15:45:58: Epoch 209 summary:
+time taken: 76.68342137336731
+nsamples / sec: 0.07668342137336731
+average training loss: 0.0046638578198130885
+clim_bias: 20.854862213134766
+infer_bias: 43.559356689453125
+--------------------------------------------------------------------------------
+15:46:31: epoch 210 start
+current learning rate = 1e-06
+15:47:48: Epoch 210 summary:
+time taken: 76.66063690185547
+nsamples / sec: 0.07666063690185547
+average training loss: 0.00466358356430489
+clim_bias: 34.539493560791016
+infer_bias: 43.49961853027344
+--------------------------------------------------------------------------------
+15:48:20: epoch 211 start
+current learning rate = 1e-06
+15:49:37: Epoch 211 summary:
+time taken: 76.69090914726257
+nsamples / sec: 0.07669090914726258
+average training loss: 0.00466338890075213
+clim_bias: 35.067718505859375
+infer_bias: 43.44414138793945
+--------------------------------------------------------------------------------
+15:50:10: epoch 212 start
+current learning rate = 1e-06
+15:51:26: Epoch 212 summary:
+time taken: 76.69315147399902
+nsamples / sec: 0.07669315147399902
+average training loss: 0.004663143805449255
+clim_bias: 26.774911880493164
+infer_bias: 43.33519744873047
+--------------------------------------------------------------------------------
+15:51:59: epoch 213 start
+current learning rate = 1e-06
+15:53:16: Epoch 213 summary:
+time taken: 76.644775390625
+nsamples / sec: 0.076644775390625
+average training loss: 0.004662908417204419
+clim_bias: 35.38222122192383
+infer_bias: 43.2835578918457
+--------------------------------------------------------------------------------
+15:53:49: epoch 214 start
+current learning rate = 1e-06
+15:55:05: Epoch 214 summary:
+time taken: 76.64924097061157
+nsamples / sec: 0.07664924097061157
+average training loss: 0.0046627379654332335
+clim_bias: 34.02259826660156
+infer_bias: 43.22380828857422
+--------------------------------------------------------------------------------
+15:55:38: epoch 215 start
+current learning rate = 1e-06
+15:56:55: Epoch 215 summary:
+time taken: 76.64782500267029
+nsamples / sec: 0.07664782500267028
+average training loss: 0.004662502265127172
+clim_bias: 36.893001556396484
+infer_bias: 43.183223724365234
+--------------------------------------------------------------------------------
+15:57:27: epoch 216 start
+current learning rate = 1e-06
+15:58:45: Epoch 216 summary:
+time taken: 77.3878664970398
+nsamples / sec: 0.0773878664970398
+average training loss: 0.004662300750574735
+clim_bias: 32.30553436279297
+infer_bias: 43.11394119262695
+--------------------------------------------------------------------------------
+15:59:17: epoch 217 start
+current learning rate = 1e-06
+16:00:34: Epoch 217 summary:
+time taken: 76.6999454498291
+nsamples / sec: 0.0766999454498291
+average training loss: 0.004662060590704349
+clim_bias: 33.398651123046875
+infer_bias: 43.05244827270508
+--------------------------------------------------------------------------------
+16:01:07: epoch 218 start
+current learning rate = 1e-06
+16:02:23: Epoch 218 summary:
+time taken: 76.70805478096008
+nsamples / sec: 0.07670805478096009
+average training loss: 0.004661849527406814
+clim_bias: 23.29964828491211
+infer_bias: 42.928218841552734
+--------------------------------------------------------------------------------
+16:02:56: epoch 219 start
+current learning rate = 1e-06
+16:04:13: Epoch 219 summary:
+time taken: 76.66780138015747
+nsamples / sec: 0.07666780138015747
+average training loss: 0.004661636892212726
+clim_bias: 29.937259674072266
+infer_bias: 42.847023010253906
+--------------------------------------------------------------------------------
+16:04:46: epoch 220 start
+current learning rate = 1e-06
+16:06:02: Epoch 220 summary:
+time taken: 76.67063045501709
+nsamples / sec: 0.07667063045501708
+average training loss: 0.004661449936750309
+clim_bias: 31.45083236694336
+infer_bias: 42.776241302490234
+--------------------------------------------------------------------------------
+16:06:35: epoch 221 start
+current learning rate = 1e-06
+16:07:52: Epoch 221 summary:
+time taken: 76.65696978569031
+nsamples / sec: 0.07665696978569031
+average training loss: 0.004661235980299752
+clim_bias: 31.720766067504883
+infer_bias: 42.7079963684082
+--------------------------------------------------------------------------------
+16:08:24: epoch 222 start
+current learning rate = 1e-06
+16:09:41: Epoch 222 summary:
+time taken: 76.69203019142151
+nsamples / sec: 0.07669203019142151
+average training loss: 0.0046610416233325
+clim_bias: 32.767337799072266
+infer_bias: 42.64700698852539
+--------------------------------------------------------------------------------
+16:10:14: epoch 223 start
+current learning rate = 1e-06
+16:11:30: Epoch 223 summary:
+time taken: 76.65686798095703
+nsamples / sec: 0.07665686798095703
+average training loss: 0.004660863516281715
+clim_bias: 28.128599166870117
+infer_bias: 42.5584831237793
+--------------------------------------------------------------------------------
+16:12:03: epoch 224 start
+current learning rate = 1e-06
+16:13:20: Epoch 224 summary:
+time taken: 76.67966294288635
+nsamples / sec: 0.07667966294288635
+average training loss: 0.004660611228472145
+clim_bias: 31.57020378112793
+infer_bias: 42.491886138916016
+--------------------------------------------------------------------------------
+16:13:53: epoch 225 start
+current learning rate = 1e-06
+16:15:09: Epoch 225 summary:
+time taken: 76.69330954551697
+nsamples / sec: 0.07669330954551697
+average training loss: 0.004660459589457831
+clim_bias: 25.43686294555664
+infer_bias: 42.38914489746094
+--------------------------------------------------------------------------------
+16:15:42: epoch 226 start
+current learning rate = 1e-06
+16:16:59: Epoch 226 summary:
+time taken: 76.56898951530457
+nsamples / sec: 0.07656898951530457
+average training loss: 0.004660232254899013
+clim_bias: 22.86843490600586
+infer_bias: 42.272254943847656
+--------------------------------------------------------------------------------
+16:17:31: epoch 227 start
+current learning rate = 1e-06
+16:18:48: Epoch 227 summary:
+time taken: 76.60648965835571
+nsamples / sec: 0.07660648965835572
+average training loss: 0.004660059348290307
+clim_bias: 32.50092315673828
+infer_bias: 42.21409225463867
+--------------------------------------------------------------------------------
+16:19:21: epoch 228 start
+current learning rate = 1e-06
+16:20:37: Epoch 228 summary:
+time taken: 76.67782640457153
+nsamples / sec: 0.07667782640457153
+average training loss: 0.00465984161278027
+clim_bias: 34.34703063964844
+infer_bias: 42.167545318603516
+--------------------------------------------------------------------------------
+16:21:10: epoch 229 start
+current learning rate = 1e-06
+16:22:27: Epoch 229 summary:
+time taken: 76.66303968429565
+nsamples / sec: 0.07666303968429565
+average training loss: 0.00465965421056527
+clim_bias: 27.135900497436523
+infer_bias: 42.079124450683594
+--------------------------------------------------------------------------------
+16:22:59: epoch 230 start
+current learning rate = 1e-06
+16:24:16: Epoch 230 summary:
+time taken: 76.69953322410583
+nsamples / sec: 0.07669953322410583
+average training loss: 0.0046594993350129715
+clim_bias: 20.426115036010742
+infer_bias: 41.95249557495117
+--------------------------------------------------------------------------------
+16:24:49: epoch 231 start
+current learning rate = 1e-06
+16:26:06: Epoch 231 summary:
+time taken: 76.7500274181366
+nsamples / sec: 0.0767500274181366
+average training loss: 0.004659285250284561
+clim_bias: 29.389354705810547
+infer_bias: 41.87945556640625
+--------------------------------------------------------------------------------
+16:26:39: epoch 232 start
+current learning rate = 1e-06
+16:27:55: Epoch 232 summary:
+time taken: 76.78776669502258
+nsamples / sec: 0.07678776669502259
+average training loss: 0.004659087309050472
+clim_bias: 21.19114875793457
+infer_bias: 41.75987243652344
+--------------------------------------------------------------------------------
+16:28:28: epoch 233 start
+current learning rate = 1e-06
+16:29:45: Epoch 233 summary:
+time taken: 76.69305968284607
+nsamples / sec: 0.07669305968284607
+average training loss: 0.00465892066837484
+clim_bias: 31.00152015686035
+infer_bias: 41.69804000854492
+--------------------------------------------------------------------------------
+16:30:18: epoch 234 start
+current learning rate = 1e-06
+16:31:35: Epoch 234 summary:
+time taken: 77.40387725830078
+nsamples / sec: 0.07740387725830078
+average training loss: 0.004658738462243626
+clim_bias: 32.20016098022461
+infer_bias: 41.643768310546875
+--------------------------------------------------------------------------------
+16:32:08: epoch 235 start
+current learning rate = 1e-06
+16:33:25: Epoch 235 summary:
+time taken: 77.19450950622559
+nsamples / sec: 0.07719450950622558
+average training loss: 0.0046585089178718545
+clim_bias: 31.81104850769043
+infer_bias: 41.5879020690918
+--------------------------------------------------------------------------------
+16:33:58: epoch 236 start
+current learning rate = 1e-06
+16:35:15: Epoch 236 summary:
+time taken: 76.65223026275635
+nsamples / sec: 0.07665223026275635
+average training loss: 0.0046583800770373445
+clim_bias: 40.34252166748047
+infer_bias: 41.58086013793945
+--------------------------------------------------------------------------------
+16:35:47: epoch 237 start
+current learning rate = 1e-06
+16:37:04: Epoch 237 summary:
+time taken: 76.69124722480774
+nsamples / sec: 0.07669124722480775
+average training loss: 0.004658179883458971
+clim_bias: 32.712974548339844
+infer_bias: 41.53104019165039
+--------------------------------------------------------------------------------
+16:37:37: epoch 238 start
+current learning rate = 1e-06
+16:38:53: Epoch 238 summary:
+time taken: 76.65342950820923
+nsamples / sec: 0.07665342950820923
+average training loss: 0.0046580093792438606
+clim_bias: 37.86320114135742
+infer_bias: 41.51055145263672
+--------------------------------------------------------------------------------
+16:39:26: epoch 239 start
+current learning rate = 1e-06
+16:40:43: Epoch 239 summary:
+time taken: 76.64854049682617
+nsamples / sec: 0.07664854049682618
+average training loss: 0.004657824865381584
+clim_bias: 31.786779403686523
+infer_bias: 41.4565315246582
+--------------------------------------------------------------------------------
+16:41:15: epoch 240 start
+current learning rate = 1e-06
+16:42:32: Epoch 240 summary:
+time taken: 76.68720841407776
+nsamples / sec: 0.07668720841407776
+average training loss: 0.00465764609429978
+clim_bias: 25.54365348815918
+infer_bias: 41.36861801147461
+--------------------------------------------------------------------------------
+16:43:05: epoch 241 start
+current learning rate = 1e-06
+16:44:22: Epoch 241 summary:
+time taken: 76.66537284851074
+nsamples / sec: 0.07666537284851074
+average training loss: 0.0046574684246007535
+clim_bias: 24.675912857055664
+infer_bias: 41.27689743041992
+--------------------------------------------------------------------------------
+16:44:54: epoch 242 start
+current learning rate = 1e-06
+16:46:11: Epoch 242 summary:
+time taken: 76.67755389213562
+nsamples / sec: 0.07667755389213562
+average training loss: 0.004657269391416986
+clim_bias: 30.165119171142578
+infer_bias: 41.21617889404297
+--------------------------------------------------------------------------------
+16:46:44: epoch 243 start
+current learning rate = 1e-06
+16:48:00: Epoch 243 summary:
+time taken: 76.70740222930908
+nsamples / sec: 0.07670740222930908
+average training loss: 0.0046570859331507754
+clim_bias: 24.082469940185547
+infer_bias: 41.1230583190918
+--------------------------------------------------------------------------------
+16:48:33: epoch 244 start
+current learning rate = 1e-06
+16:49:50: Epoch 244 summary:
+time taken: 76.67701649665833
+nsamples / sec: 0.07667701649665833
+average training loss: 0.00465695036085762
+clim_bias: 29.37820053100586
+infer_bias: 41.059574127197266
+--------------------------------------------------------------------------------
+16:50:23: epoch 245 start
+current learning rate = 1e-06
+16:51:39: Epoch 245 summary:
+time taken: 76.6710844039917
+nsamples / sec: 0.0766710844039917
+average training loss: 0.004656788597179962
+clim_bias: 36.801570892333984
+infer_bias: 41.03668212890625
+--------------------------------------------------------------------------------
+16:52:12: epoch 246 start
+current learning rate = 1e-06
+16:53:29: Epoch 246 summary:
+time taken: 76.63944149017334
+nsamples / sec: 0.07663944149017334
+average training loss: 0.004656599956127734
+clim_bias: 27.692035675048828
+infer_bias: 40.9653205871582
+--------------------------------------------------------------------------------
+16:54:01: epoch 247 start
+current learning rate = 1e-06
+16:55:18: Epoch 247 summary:
+time taken: 76.61054754257202
+nsamples / sec: 0.07661054754257202
+average training loss: 0.004656446731078646
+clim_bias: 33.86268615722656
+infer_bias: 40.92753982543945
+--------------------------------------------------------------------------------
+16:55:51: epoch 248 start
+current learning rate = 1e-06
+16:57:08: Epoch 248 summary:
+time taken: 76.60945534706116
+nsamples / sec: 0.07660945534706115
+average training loss: 0.004656256456645271
+clim_bias: 36.51924133300781
+infer_bias: 40.904212951660156
+--------------------------------------------------------------------------------
+16:57:40: epoch 249 start
+current learning rate = 1e-06
+16:58:57: Epoch 249 summary:
+time taken: 76.63590335845947
+nsamples / sec: 0.07663590335845948
+average training loss: 0.004656057203478722
+clim_bias: 44.604183197021484
+infer_bias: 40.92368698120117
+--------------------------------------------------------------------------------
+16:59:30: epoch 250 start
+current learning rate = 1e-06
+17:00:46: Epoch 250 summary:
+time taken: 76.70316743850708
+nsamples / sec: 0.07670316743850708
+average training loss: 0.004655909867141089
+clim_bias: 34.37006759643555
+infer_bias: 40.889373779296875
+--------------------------------------------------------------------------------
+17:01:19: epoch 251 start
+current learning rate = 1e-06
+17:02:36: Epoch 251 summary:
+time taken: 76.69350719451904
+nsamples / sec: 0.07669350719451905
+average training loss: 0.004655749560813156
+clim_bias: 43.53569030761719
+infer_bias: 40.903160095214844
+--------------------------------------------------------------------------------
+17:03:09: epoch 252 start
+current learning rate = 1e-06
+17:04:25: Epoch 252 summary:
+time taken: 76.6537766456604
+nsamples / sec: 0.07665377664566041
+average training loss: 0.004655540407483468
+clim_bias: 25.89923858642578
+infer_bias: 40.82542037963867
+--------------------------------------------------------------------------------
+17:04:58: epoch 253 start
+current learning rate = 1e-06
+17:06:15: Epoch 253 summary:
+time taken: 76.70946025848389
+nsamples / sec: 0.07670946025848388
+average training loss: 0.004655411379816348
+clim_bias: 37.464324951171875
+infer_bias: 40.8080940246582
+--------------------------------------------------------------------------------
+17:06:48: epoch 254 start
+current learning rate = 1e-06
+17:08:04: Epoch 254 summary:
+time taken: 76.68933296203613
+nsamples / sec: 0.07668933296203613
+average training loss: 0.004655213801342078
+clim_bias: 23.239765167236328
+infer_bias: 40.71800231933594
+--------------------------------------------------------------------------------
+17:08:37: epoch 255 start
+current learning rate = 1e-06
+17:09:54: Epoch 255 summary:
+time taken: 76.68185830116272
+nsamples / sec: 0.07668185830116273
+average training loss: 0.004655078123714716
+clim_bias: 23.38937759399414
+infer_bias: 40.62958908081055
+--------------------------------------------------------------------------------
+17:10:27: epoch 256 start
+current learning rate = 1e-06
+17:11:43: Epoch 256 summary:
+time taken: 76.67549681663513
+nsamples / sec: 0.07667549681663513
+average training loss: 0.004654911666397777
+clim_bias: 34.15617752075195
+infer_bias: 40.59672927856445
+--------------------------------------------------------------------------------
+17:12:16: epoch 257 start
+current learning rate = 1e-06
+17:13:33: Epoch 257 summary:
+time taken: 76.69458532333374
+nsamples / sec: 0.07669458532333374
+average training loss: 0.004654758656904684
+clim_bias: 31.741230010986328
+infer_bias: 40.552005767822266
+--------------------------------------------------------------------------------
+17:14:06: epoch 258 start
+current learning rate = 1e-06
+17:15:23: Epoch 258 summary:
+time taken: 76.7376024723053
+nsamples / sec: 0.0767376024723053
+average training loss: 0.004654608900168895
+clim_bias: 31.933408737182617
+infer_bias: 40.508697509765625
+--------------------------------------------------------------------------------
+17:15:56: epoch 259 start
+current learning rate = 1e-06
+17:17:13: Epoch 259 summary:
+time taken: 76.73760318756104
+nsamples / sec: 0.07673760318756104
+average training loss: 0.004654449280014075
+clim_bias: 30.096296310424805
+infer_bias: 40.45663070678711
+--------------------------------------------------------------------------------
+17:17:46: epoch 260 start
+current learning rate = 1e-06
+17:19:03: Epoch 260 summary:
+time taken: 76.80896806716919
+nsamples / sec: 0.07680896806716919
+average training loss: 0.004654259832102631
+clim_bias: 34.505367279052734
+infer_bias: 40.427024841308594
+--------------------------------------------------------------------------------
+17:19:36: epoch 261 start
+current learning rate = 1e-06
+17:20:53: Epoch 261 summary:
+time taken: 76.81333255767822
+nsamples / sec: 0.07681333255767822
+average training loss: 0.004654125491113144
+clim_bias: 24.19268798828125
+infer_bias: 40.346656799316406
+--------------------------------------------------------------------------------
+17:21:26: epoch 262 start
+current learning rate = 1e-06
+17:22:42: Epoch 262 summary:
+time taken: 76.72481417655945
+nsamples / sec: 0.07672481417655945
+average training loss: 0.004653939415380318
+clim_bias: 18.5001163482666
+infer_bias: 40.239036560058594
+--------------------------------------------------------------------------------
+17:23:15: epoch 263 start
+current learning rate = 1e-06
+17:24:32: Epoch 263 summary:
+time taken: 76.71937656402588
+nsamples / sec: 0.07671937656402587
+average training loss: 0.004653817764601491
+clim_bias: 28.587665557861328
+infer_bias: 40.181922912597656
+--------------------------------------------------------------------------------
+17:25:05: epoch 264 start
+current learning rate = 1e-06
+17:26:22: Epoch 264 summary:
+time taken: 76.7301242351532
+nsamples / sec: 0.0767301242351532
+average training loss: 0.004653613583038474
+clim_bias: 26.747638702392578
+infer_bias: 40.11638641357422
+--------------------------------------------------------------------------------
+17:26:55: epoch 265 start
+current learning rate = 1e-06
+17:28:12: Epoch 265 summary:
+time taken: 76.73304986953735
+nsamples / sec: 0.07673304986953736
+average training loss: 0.004653479149729633
+clim_bias: 36.91704559326172
+infer_bias: 40.100860595703125
+--------------------------------------------------------------------------------
+17:28:45: epoch 266 start
+current learning rate = 1e-06
+17:30:02: Epoch 266 summary:
+time taken: 76.71876645088196
+nsamples / sec: 0.07671876645088196
+average training loss: 0.004653319481520564
+clim_bias: 28.229938507080078
+infer_bias: 40.04351043701172
+--------------------------------------------------------------------------------
+17:30:35: epoch 267 start
+current learning rate = 1e-06
+17:31:52: Epoch 267 summary:
+time taken: 77.12936282157898
+nsamples / sec: 0.07712936282157898
+average training loss: 0.004653169244083531
+clim_bias: 25.367136001586914
+infer_bias: 39.97295379638672
+--------------------------------------------------------------------------------
+17:32:25: epoch 268 start
+current learning rate = 1e-06
+17:33:42: Epoch 268 summary:
+time taken: 76.68600487709045
+nsamples / sec: 0.07668600487709046
+average training loss: 0.0046530034280679745
+clim_bias: 32.100860595703125
+infer_bias: 39.93528366088867
+--------------------------------------------------------------------------------
+17:34:15: epoch 269 start
+current learning rate = 1e-06
+17:35:31: Epoch 269 summary:
+time taken: 76.73235869407654
+nsamples / sec: 0.07673235869407653
+average training loss: 0.004652879074157801
+clim_bias: 26.136720657348633
+infer_bias: 39.86957931518555
+--------------------------------------------------------------------------------
+17:36:05: epoch 270 start
+current learning rate = 1e-06
+17:37:21: Epoch 270 summary:
+time taken: 76.69045543670654
+nsamples / sec: 0.07669045543670654
+average training loss: 0.004652738649997025
+clim_bias: 26.964645385742188
+infer_bias: 39.80841827392578
+--------------------------------------------------------------------------------
+17:37:54: epoch 271 start
+current learning rate = 1e-06
+17:39:11: Epoch 271 summary:
+time taken: 76.74580526351929
+nsamples / sec: 0.07674580526351929
+average training loss: 0.004652544202076741
+clim_bias: 15.774486541748047
+infer_bias: 39.69504928588867
+--------------------------------------------------------------------------------
+17:39:44: epoch 272 start
+current learning rate = 1e-06
+17:41:01: Epoch 272 summary:
+time taken: 76.7161283493042
+nsamples / sec: 0.0767161283493042
+average training loss: 0.004652347462911114
+clim_bias: 45.251556396484375
+infer_bias: 39.72113800048828
+--------------------------------------------------------------------------------
+17:41:34: epoch 273 start
+current learning rate = 1e-06
+17:42:51: Epoch 273 summary:
+time taken: 76.68364119529724
+nsamples / sec: 0.07668364119529725
+average training loss: 0.004652242507297086
+clim_bias: 19.122621536254883
+infer_bias: 39.624881744384766
+--------------------------------------------------------------------------------
+17:43:24: epoch 274 start
+current learning rate = 1e-06
+17:44:40: Epoch 274 summary:
+time taken: 76.66888642311096
+nsamples / sec: 0.07666888642311097
+average training loss: 0.004652130181243087
+clim_bias: 23.089523315429688
+infer_bias: 39.5479736328125
+--------------------------------------------------------------------------------
+17:45:14: epoch 275 start
+current learning rate = 1e-06
+17:46:30: Epoch 275 summary:
+time taken: 76.6085159778595
+nsamples / sec: 0.0766085159778595
+average training loss: 0.004651945810059639
+clim_bias: 31.306446075439453
+infer_bias: 39.50981903076172
+--------------------------------------------------------------------------------
+17:47:03: epoch 276 start
+current learning rate = 1e-06
+17:48:20: Epoch 276 summary:
+time taken: 76.7154586315155
+nsamples / sec: 0.0767154586315155
+average training loss: 0.004651806068800825
+clim_bias: 27.519880294799805
+infer_bias: 39.454566955566406
+--------------------------------------------------------------------------------
+17:48:53: epoch 277 start
+current learning rate = 1e-06
+17:50:10: Epoch 277 summary:
+time taken: 76.69860506057739
+nsamples / sec: 0.0766986050605774
+average training loss: 0.004651597509782694
+clim_bias: 25.39586067199707
+infer_bias: 39.39007568359375
+--------------------------------------------------------------------------------
+17:50:43: epoch 278 start
+current learning rate = 1e-06
+17:51:59: Epoch 278 summary:
+time taken: 76.55440950393677
+nsamples / sec: 0.07655440950393677
+average training loss: 0.00465148563169971
+clim_bias: 22.055082321166992
+infer_bias: 39.31092071533203
+--------------------------------------------------------------------------------
+17:52:32: epoch 279 start
+current learning rate = 1e-06
+17:53:49: Epoch 279 summary:
+time taken: 76.62270331382751
+nsamples / sec: 0.07662270331382752
+average training loss: 0.004651294286199165
+clim_bias: 31.09684944152832
+infer_bias: 39.273582458496094
+--------------------------------------------------------------------------------
+17:54:22: epoch 280 start
+current learning rate = 1e-06
+17:55:39: Epoch 280 summary:
+time taken: 76.59946155548096
+nsamples / sec: 0.07659946155548096
+average training loss: 0.0046511816800293366
+clim_bias: 25.071813583374023
+infer_bias: 39.20932388305664
+--------------------------------------------------------------------------------
+17:56:12: epoch 281 start
+current learning rate = 1e-06
+17:57:29: Epoch 281 summary:
+time taken: 76.69925308227539
+nsamples / sec: 0.07669925308227539
+average training loss: 0.004651064138837306
+clim_bias: 27.866546630859375
+infer_bias: 39.15822982788086
+--------------------------------------------------------------------------------
+17:58:02: epoch 282 start
+current learning rate = 1e-06
+17:59:18: Epoch 282 summary:
+time taken: 76.77049231529236
+nsamples / sec: 0.07677049231529236
+average training loss: 0.004650904737540797
+clim_bias: 34.00905990600586
+infer_bias: 39.13513946533203
+--------------------------------------------------------------------------------
+17:59:51: epoch 283 start
+current learning rate = 1e-06
+18:01:08: Epoch 283 summary:
+time taken: 76.70625925064087
+nsamples / sec: 0.07670625925064087
+average training loss: 0.004650724995461082
+clim_bias: 24.898752212524414
+infer_bias: 39.07158660888672
+--------------------------------------------------------------------------------
+18:01:41: epoch 284 start
+current learning rate = 1e-06
+18:02:58: Epoch 284 summary:
+time taken: 76.64973568916321
+nsamples / sec: 0.07664973568916321
+average training loss: 0.004650613495172686
+clim_bias: 25.807924270629883
+infer_bias: 39.01263427734375
+--------------------------------------------------------------------------------
+18:03:31: epoch 285 start
+current learning rate = 1e-06
+18:04:48: Epoch 285 summary:
+time taken: 76.74388599395752
+nsamples / sec: 0.07674388599395753
+average training loss: 0.0046504683869282555
+clim_bias: 37.694000244140625
+infer_bias: 39.00680160522461
+--------------------------------------------------------------------------------
+18:05:21: epoch 286 start
+current learning rate = 1e-06
+18:06:37: Epoch 286 summary:
+time taken: 76.70151472091675
+nsamples / sec: 0.07670151472091674
+average training loss: 0.004650282193445411
+clim_bias: 26.6508731842041
+infer_bias: 38.952369689941406
+--------------------------------------------------------------------------------
+18:07:10: epoch 287 start
+current learning rate = 1e-06
+18:08:27: Epoch 287 summary:
+time taken: 76.64215326309204
+nsamples / sec: 0.07664215326309204
+average training loss: 0.004650144287665777
+clim_bias: 29.353830337524414
+infer_bias: 38.91027069091797
+--------------------------------------------------------------------------------
+18:09:00: epoch 288 start
+current learning rate = 1e-06
+18:10:16: Epoch 288 summary:
+time taken: 76.67532920837402
+nsamples / sec: 0.07667532920837403
+average training loss: 0.004650052796750961
+clim_bias: 35.484920501708984
+infer_bias: 38.89531326293945
+--------------------------------------------------------------------------------
+18:10:49: epoch 289 start
+current learning rate = 1e-06
+18:12:06: Epoch 289 summary:
+time taken: 76.75197339057922
+nsamples / sec: 0.07675197339057922
+average training loss: 0.004649870213312704
+clim_bias: 20.230722427368164
+infer_bias: 38.81415939331055
+--------------------------------------------------------------------------------
+18:12:39: epoch 290 start
+current learning rate = 1e-06
+18:13:56: Epoch 290 summary:
+time taken: 76.77148175239563
+nsamples / sec: 0.07677148175239563
+average training loss: 0.004649718784983316
+clim_bias: 33.723384857177734
+infer_bias: 38.79212188720703
+--------------------------------------------------------------------------------
+18:14:29: epoch 291 start
+current learning rate = 1e-06
+18:15:46: Epoch 291 summary:
+time taken: 76.68750166893005
+nsamples / sec: 0.07668750166893006
+average training loss: 0.004649588293815117
+clim_bias: 37.13485336303711
+infer_bias: 38.78498077392578
+--------------------------------------------------------------------------------
+18:16:19: epoch 292 start
+current learning rate = 1e-06
+18:17:36: Epoch 292 summary:
+time taken: 76.82046484947205
+nsamples / sec: 0.07682046484947204
+average training loss: 0.00464943502964463
+clim_bias: 25.830720901489258
+infer_bias: 38.72937774658203
+--------------------------------------------------------------------------------
+18:18:09: epoch 293 start
+current learning rate = 1e-06
+18:19:26: Epoch 293 summary:
+time taken: 76.74412894248962
+nsamples / sec: 0.07674412894248962
+average training loss: 0.004649320892438133
+clim_bias: 28.270206451416016
+infer_bias: 38.68468475341797
+--------------------------------------------------------------------------------
+18:19:59: epoch 294 start
+current learning rate = 1e-06
+18:21:16: Epoch 294 summary:
+time taken: 76.74958944320679
+nsamples / sec: 0.07674958944320678
+average training loss: 0.0046491804168490615
+clim_bias: 31.17267608642578
+infer_bias: 38.65271759033203
+--------------------------------------------------------------------------------
+18:21:49: epoch 295 start
+current learning rate = 1e-06
+18:23:06: Epoch 295 summary:
+time taken: 76.69652724266052
+nsamples / sec: 0.07669652724266052
+average training loss: 0.004649004076342439
+clim_bias: 34.762447357177734
+infer_bias: 38.636234283447266
+--------------------------------------------------------------------------------
+18:23:40: epoch 296 start
+current learning rate = 1e-06
+18:24:56: Epoch 296 summary:
+time taken: 76.7210955619812
+nsamples / sec: 0.0767210955619812
+average training loss: 0.004648869341728403
+clim_bias: 23.660768508911133
+infer_bias: 38.57304382324219
+--------------------------------------------------------------------------------
+18:25:30: epoch 297 start
+current learning rate = 1e-06
+18:26:46: Epoch 297 summary:
+time taken: 76.76527404785156
+nsamples / sec: 0.07676527404785156
+average training loss: 0.0046487550393469025
+clim_bias: 26.351226806640625
+infer_bias: 38.52169418334961
+--------------------------------------------------------------------------------
+18:27:20: epoch 298 start
+current learning rate = 1e-06
+18:28:37: Epoch 298 summary:
+time taken: 76.7884418964386
+nsamples / sec: 0.0767884418964386
+average training loss: 0.0046486033352618325
+clim_bias: 22.648862838745117
+infer_bias: 38.45527648925781
+--------------------------------------------------------------------------------
+18:29:10: epoch 299 start
+current learning rate = 1e-06
+18:30:27: Epoch 299 summary:
+time taken: 76.82616090774536
+nsamples / sec: 0.07682616090774536
+average training loss: 0.004648434371753086
+clim_bias: 28.33869743347168
+infer_bias: 38.41312789916992
+--------------------------------------------------------------------------------
+18:31:00: epoch 300 start
+current learning rate = 1e-06
+18:32:17: Epoch 300 summary:
+time taken: 76.74200654029846
+nsamples / sec: 0.07674200654029846
+average training loss: 0.0046483279356353295
+clim_bias: 22.89000129699707
+infer_bias: 38.34871292114258
+--------------------------------------------------------------------------------
+18:32:50: epoch 301 start
+current learning rate = 1e-06
+18:34:07: Epoch 301 summary:
+time taken: 76.78112840652466
+nsamples / sec: 0.07678112840652465
+average training loss: 0.004648187499499578
+clim_bias: 19.446407318115234
+infer_bias: 38.27060317993164
+--------------------------------------------------------------------------------
+18:34:40: epoch 302 start
+current learning rate = 1e-06
+18:35:57: Epoch 302 summary:
+time taken: 76.99924111366272
+nsamples / sec: 0.07699924111366271
+average training loss: 0.004648055561275852
+clim_bias: 26.69273567199707
+infer_bias: 38.22296142578125
+--------------------------------------------------------------------------------
+18:36:31: epoch 303 start
+current learning rate = 1e-06
+18:37:47: Epoch 303 summary:
+time taken: 76.73558688163757
+nsamples / sec: 0.07673558688163758
+average training loss: 0.004647899024077954
+clim_bias: 30.05122947692871
+infer_bias: 38.18946838378906
+--------------------------------------------------------------------------------
+18:38:21: epoch 304 start
+current learning rate = 1e-06
+18:39:38: Epoch 304 summary:
+time taken: 76.68829655647278
+nsamples / sec: 0.07668829655647277
+average training loss: 0.00464774881561427
+clim_bias: 28.990352630615234
+infer_bias: 38.151920318603516
+--------------------------------------------------------------------------------
+18:40:10: epoch 305 start
+current learning rate = 1e-06
+18:41:27: Epoch 305 summary:
+time taken: 76.62135314941406
+nsamples / sec: 0.07662135314941407
+average training loss: 0.004647619424891446
+clim_bias: 38.2858772277832
+infer_bias: 38.1524658203125
+--------------------------------------------------------------------------------
+18:42:00: epoch 306 start
+current learning rate = 1e-06
+18:43:17: Epoch 306 summary:
+time taken: 76.65142273902893
+nsamples / sec: 0.07665142273902893
+average training loss: 0.004647517889295778
+clim_bias: 23.756011962890625
+infer_bias: 38.094181060791016
+--------------------------------------------------------------------------------
+18:43:49: epoch 307 start
+current learning rate = 1e-06
+18:45:06: Epoch 307 summary:
+time taken: 76.63168382644653
+nsamples / sec: 0.07663168382644653
+average training loss: 0.004647339829732556
+clim_bias: 26.43502426147461
+infer_bias: 38.04716873168945
+--------------------------------------------------------------------------------
+18:45:39: epoch 308 start
+current learning rate = 1e-06
+18:46:55: Epoch 308 summary:
+time taken: 76.59673833847046
+nsamples / sec: 0.07659673833847046
+average training loss: 0.0046471969497797316
+clim_bias: 28.53180694580078
+infer_bias: 38.00895690917969
+--------------------------------------------------------------------------------
+18:47:28: epoch 309 start
+current learning rate = 1e-06
+18:48:45: Epoch 309 summary:
+time taken: 76.62521743774414
+nsamples / sec: 0.07662521743774414
+average training loss: 0.004647076801100074
+clim_bias: 39.409671783447266
+infer_bias: 38.01456069946289
+--------------------------------------------------------------------------------
+18:49:18: epoch 310 start
+current learning rate = 1e-06
+18:50:34: Epoch 310 summary:
+time taken: 76.67013454437256
+nsamples / sec: 0.07667013454437256
+average training loss: 0.0046469411328666265
+clim_bias: 42.94314193725586
+infer_bias: 38.03419876098633
+clim_bias > 38.03419876098633, recall from latest checkpoint
+--------------------------------------------------------------------------------
+18:51:08: epoch 311 start
+current learning rate = 1e-06
+18:52:25: Epoch 311 summary:
+time taken: 76.75940442085266
+nsamples / sec: 0.07675940442085266
+average training loss: 0.004667519232393641
+clim_bias: 21.29205322265625
+infer_bias: 37.96775817871094
+--------------------------------------------------------------------------------
+18:52:58: epoch 312 start
+current learning rate = 1e-06
+18:54:15: Epoch 312 summary:
+time taken: 76.7107241153717
+nsamples / sec: 0.0767107241153717
+average training loss: 0.0046672809691277305
+clim_bias: 31.65467643737793
+infer_bias: 37.94280242919922
+--------------------------------------------------------------------------------
+18:54:48: epoch 313 start
+current learning rate = 1e-06
+18:56:05: Epoch 313 summary:
+time taken: 76.77921390533447
+nsamples / sec: 0.07677921390533447
+average training loss: 0.004667039885049563
+clim_bias: 19.107912063598633
+infer_bias: 37.868656158447266
+--------------------------------------------------------------------------------
+18:56:38: epoch 314 start
+current learning rate = 1e-06
+18:57:55: Epoch 314 summary:
+time taken: 76.79725813865662
+nsamples / sec: 0.07679725813865662
+average training loss: 0.004666743481210935
+clim_bias: 27.668447494506836
+infer_bias: 37.82865524291992
+--------------------------------------------------------------------------------
+18:58:28: epoch 315 start
+current learning rate = 1e-06
+18:59:45: Epoch 315 summary:
+time taken: 76.78674054145813
+nsamples / sec: 0.07678674054145813
+average training loss: 0.004666507695608483
+clim_bias: 24.985538482666016
+infer_bias: 37.77848434448242
+--------------------------------------------------------------------------------
+19:00:18: epoch 316 start
+current learning rate = 1e-06
+19:01:35: Epoch 316 summary:
+time taken: 76.71392321586609
+nsamples / sec: 0.07671392321586609
+average training loss: 0.004666225731044227
+clim_bias: 32.57290267944336
+infer_bias: 37.75822830200195
+--------------------------------------------------------------------------------
+19:02:08: epoch 317 start
+current learning rate = 1e-06
+19:03:25: Epoch 317 summary:
+time taken: 76.74540591239929
+nsamples / sec: 0.0767454059123993
+average training loss: 0.004665970409237363
+clim_bias: 29.080554962158203
+infer_bias: 37.72459411621094
+--------------------------------------------------------------------------------
+19:03:58: epoch 318 start
+current learning rate = 1e-06
+19:05:15: Epoch 318 summary:
+time taken: 76.71716141700745
+nsamples / sec: 0.07671716141700745
+average training loss: 0.0046657333420089715
+clim_bias: 37.410423278808594
+infer_bias: 37.723384857177734
+--------------------------------------------------------------------------------
+19:05:48: epoch 319 start
+current learning rate = 1e-06
+19:07:05: Epoch 319 summary:
+time taken: 76.76197242736816
+nsamples / sec: 0.07676197242736817
+average training loss: 0.004665493064685551
+clim_bias: 24.244009017944336
+infer_bias: 37.67153549194336
+--------------------------------------------------------------------------------
+19:07:38: epoch 320 start
+current learning rate = 1e-06
+19:08:55: Epoch 320 summary:
+time taken: 76.77764439582825
+nsamples / sec: 0.07677764439582825
+average training loss: 0.004665280012628247
+clim_bias: 24.447147369384766
+infer_bias: 37.62086868286133
+--------------------------------------------------------------------------------
+19:09:28: epoch 321 start
+current learning rate = 1e-06
+19:10:45: Epoch 321 summary:
+time taken: 76.80836796760559
+nsamples / sec: 0.0768083679676056
+average training loss: 0.004665027115927993
+clim_bias: 29.401887893676758
+infer_bias: 37.58949661254883
+--------------------------------------------------------------------------------
+19:11:19: epoch 322 start
+current learning rate = 1e-06
+19:12:35: Epoch 322 summary:
+time taken: 76.75612497329712
+nsamples / sec: 0.07675612497329712
+average training loss: 0.00466477020434569
+clim_bias: 28.464170455932617
+infer_bias: 37.55480194091797
+--------------------------------------------------------------------------------
+19:13:09: epoch 323 start
+current learning rate = 1e-06
+19:14:26: Epoch 323 summary:
+time taken: 76.73374819755554
+nsamples / sec: 0.07673374819755555
+average training loss: 0.004664493538499408
+clim_bias: 31.730134963989258
+infer_bias: 37.532737731933594
+--------------------------------------------------------------------------------
+19:14:59: epoch 324 start
+current learning rate = 1e-06
+19:16:15: Epoch 324 summary:
+time taken: 76.73184657096863
+nsamples / sec: 0.07673184657096863
+average training loss: 0.004664327904905255
+clim_bias: 34.45118713378906
+infer_bias: 37.5211067199707
+--------------------------------------------------------------------------------
+19:16:49: epoch 325 start
+current learning rate = 1e-06
+19:18:05: Epoch 325 summary:
+time taken: 76.7243435382843
+nsamples / sec: 0.0767243435382843
+average training loss: 0.0046640563904978925
+clim_bias: 24.409093856811523
+infer_bias: 37.47181701660156
+--------------------------------------------------------------------------------
+19:18:38: epoch 326 start
+current learning rate = 1e-06
+19:19:55: Epoch 326 summary:
+time taken: 76.63947701454163
+nsamples / sec: 0.07663947701454163
+average training loss: 0.004663853082799929
+clim_bias: 28.94611358642578
+infer_bias: 37.439884185791016
+--------------------------------------------------------------------------------
+19:20:28: epoch 327 start
+current learning rate = 1e-06
+19:21:45: Epoch 327 summary:
+time taken: 76.72209429740906
+nsamples / sec: 0.07672209429740906
+average training loss: 0.004663588755589707
+clim_bias: 29.497947692871094
+infer_bias: 37.41025161743164
+--------------------------------------------------------------------------------
+19:22:18: epoch 328 start
+current learning rate = 1e-06
+19:23:35: Epoch 328 summary:
+time taken: 76.72258496284485
+nsamples / sec: 0.07672258496284484
+average training loss: 0.0046633834546921
+clim_bias: 38.81520080566406
+infer_bias: 37.415470123291016
+--------------------------------------------------------------------------------
+19:24:08: epoch 329 start
+current learning rate = 1e-06
+19:25:24: Epoch 329 summary:
+time taken: 76.71742272377014
+nsamples / sec: 0.07671742272377015
+average training loss: 0.004663153059722981
+clim_bias: 30.026464462280273
+infer_bias: 37.38810348510742
+--------------------------------------------------------------------------------
+19:25:58: epoch 330 start
+current learning rate = 1e-06
+19:27:14: Epoch 330 summary:
+time taken: 76.66902685165405
+nsamples / sec: 0.07666902685165405
+average training loss: 0.004662931711196634
+clim_bias: 30.22681427001953
+infer_bias: 37.3616828918457
+--------------------------------------------------------------------------------
+19:27:48: epoch 331 start
+current learning rate = 1e-06
+19:29:04: Epoch 331 summary:
+time taken: 76.73003482818604
+nsamples / sec: 0.07673003482818604
+average training loss: 0.004662714517918796
+clim_bias: 25.969030380249023
+infer_bias: 37.31979751586914
+--------------------------------------------------------------------------------
+19:29:38: epoch 332 start
+current learning rate = 1e-06
+19:30:55: Epoch 332 summary:
+time taken: 76.77807283401489
+nsamples / sec: 0.07677807283401489
+average training loss: 0.0046624982550121695
+clim_bias: 32.73325729370117
+infer_bias: 37.30299758911133
+--------------------------------------------------------------------------------
+19:31:28: epoch 333 start
+current learning rate = 1e-06
+19:32:45: Epoch 333 summary:
+time taken: 76.84888529777527
+nsamples / sec: 0.07684888529777527
+average training loss: 0.0046623016454745096
+clim_bias: 43.03529357910156
+infer_bias: 37.32392120361328
+--------------------------------------------------------------------------------
+19:33:18: epoch 334 start
+current learning rate = 1e-06
+19:34:35: Epoch 334 summary:
+time taken: 76.74156665802002
+nsamples / sec: 0.07674156665802002
+average training loss: 0.004662085038120984
+clim_bias: 31.44342041015625
+infer_bias: 37.30253601074219
+--------------------------------------------------------------------------------
+19:35:08: epoch 335 start
+current learning rate = 1e-06
+19:36:25: Epoch 335 summary:
+time taken: 76.7546718120575
+nsamples / sec: 0.0767546718120575
+average training loss: 0.00466186310347436
+clim_bias: 41.72697067260742
+infer_bias: 37.318565368652344
+--------------------------------------------------------------------------------
+19:36:58: epoch 336 start
+current learning rate = 1e-06
+19:38:15: Epoch 336 summary:
+time taken: 76.77503776550293
+nsamples / sec: 0.07677503776550293
+average training loss: 0.004661666268150724
+clim_bias: 26.360443115234375
+infer_bias: 37.27900314331055
+--------------------------------------------------------------------------------
+19:38:48: epoch 337 start
+current learning rate = 1e-06
+19:40:05: Epoch 337 summary:
+time taken: 76.71031069755554
+nsamples / sec: 0.07671031069755554
+average training loss: 0.004661430401641297
+clim_bias: 35.72896194458008
+infer_bias: 37.27342987060547
+--------------------------------------------------------------------------------
+19:40:38: epoch 338 start
+current learning rate = 1e-06
+19:41:55: Epoch 338 summary:
+time taken: 76.73071789741516
+nsamples / sec: 0.07673071789741516
+average training loss: 0.004661281785316064
+clim_bias: 28.227977752685547
+infer_bias: 37.24100875854492
+--------------------------------------------------------------------------------
+19:42:28: epoch 339 start
+current learning rate = 1e-06
+19:43:45: Epoch 339 summary:
+time taken: 76.75260639190674
+nsamples / sec: 0.07675260639190674
+average training loss: 0.0046610002129701044
+clim_bias: 26.141645431518555
+infer_bias: 37.20137023925781
+--------------------------------------------------------------------------------
+19:44:18: epoch 340 start
+current learning rate = 1e-06
+19:45:35: Epoch 340 summary:
+time taken: 76.7414481639862
+nsamples / sec: 0.0767414481639862
+average training loss: 0.0046608437791685045
+clim_bias: 32.63927459716797
+infer_bias: 37.18513488769531
+--------------------------------------------------------------------------------
+19:46:09: epoch 341 start
+current learning rate = 1e-06
+19:47:25: Epoch 341 summary:
+time taken: 76.72922658920288
+nsamples / sec: 0.07672922658920288
+average training loss: 0.004660641728764521
+clim_bias: 28.61870765686035
+infer_bias: 37.15475845336914
+--------------------------------------------------------------------------------
+19:47:59: epoch 342 start
+current learning rate = 1e-06
+19:49:15: Epoch 342 summary:
+time taken: 76.73423910140991
+nsamples / sec: 0.07673423910140992
+average training loss: 0.004660456270197632
+clim_bias: 38.696590423583984
+infer_bias: 37.16020584106445
+--------------------------------------------------------------------------------
+19:49:49: epoch 343 start
+current learning rate = 1e-06
+19:51:06: Epoch 343 summary:
+time taken: 76.79303622245789
+nsamples / sec: 0.07679303622245788
+average training loss: 0.004660237727554379
+clim_bias: 21.130945205688477
+infer_bias: 37.103763580322266
+--------------------------------------------------------------------------------
+19:51:39: epoch 344 start
+current learning rate = 1e-06
+19:52:56: Epoch 344 summary:
+time taken: 76.7756016254425
+nsamples / sec: 0.0767756016254425
+average training loss: 0.004660065030870194
+clim_bias: 28.692420959472656
+infer_bias: 37.074249267578125
+--------------------------------------------------------------------------------
+19:53:29: epoch 345 start
+current learning rate = 1e-06
+19:54:46: Epoch 345 summary:
+time taken: 76.75968027114868
+nsamples / sec: 0.07675968027114868
+average training loss: 0.00465990594376664
+clim_bias: 33.60581588745117
+infer_bias: 37.06212615966797
+--------------------------------------------------------------------------------
+19:55:19: epoch 346 start
+current learning rate = 1e-06
+19:56:36: Epoch 346 summary:
+time taken: 76.70343255996704
+nsamples / sec: 0.07670343255996705
+average training loss: 0.004659679158688207
+clim_bias: 36.26156997680664
+infer_bias: 37.05933380126953
+--------------------------------------------------------------------------------
+19:57:10: epoch 347 start
+current learning rate = 1e-06
+19:58:27: Epoch 347 summary:
+time taken: 76.7606770992279
+nsamples / sec: 0.0767606770992279
+average training loss: 0.0046594873701815715
+clim_bias: 40.357765197753906
+infer_bias: 37.07078552246094
+--------------------------------------------------------------------------------
+19:59:00: epoch 348 start
+current learning rate = 1e-06
+20:00:17: Epoch 348 summary:
+time taken: 76.76744508743286
+nsamples / sec: 0.07676744508743286
+average training loss: 0.004659297970490853
+clim_bias: 27.833084106445312
+infer_bias: 37.038818359375
+--------------------------------------------------------------------------------
+20:00:49: epoch 349 start
+current learning rate = 1e-06
+20:02:06: Epoch 349 summary:
+time taken: 76.67252993583679
+nsamples / sec: 0.07667252993583679
+average training loss: 0.004659152047135623
+clim_bias: 28.349876403808594
+infer_bias: 37.00885772705078
+--------------------------------------------------------------------------------
+20:02:39: epoch 350 start
+current learning rate = 1e-06
+20:03:56: Epoch 350 summary:
+time taken: 76.69262456893921
+nsamples / sec: 0.0766926245689392
+average training loss: 0.004658901794747536
+clim_bias: 27.7479248046875
+infer_bias: 36.97703170776367
+--------------------------------------------------------------------------------
+20:04:28: epoch 351 start
+current learning rate = 1e-06
+20:05:45: Epoch 351 summary:
+time taken: 76.69691395759583
+nsamples / sec: 0.07669691395759583
+average training loss: 0.004658741983162983
+clim_bias: 31.922565460205078
+infer_bias: 36.95972442626953
+--------------------------------------------------------------------------------
+20:06:18: epoch 352 start
+current learning rate = 1e-06
+20:07:35: Epoch 352 summary:
+time taken: 76.69545221328735
+nsamples / sec: 0.07669545221328736
+average training loss: 0.004658566906387929
+clim_bias: 24.814701080322266
+infer_bias: 36.91827392578125
+--------------------------------------------------------------------------------
+20:08:07: epoch 353 start
+current learning rate = 1e-06
+20:09:24: Epoch 353 summary:
+time taken: 76.7719178199768
+nsamples / sec: 0.0767719178199768
+average training loss: 0.004658370276391657
+clim_bias: 22.798725128173828
+infer_bias: 36.87024688720703
+--------------------------------------------------------------------------------
+20:09:57: epoch 354 start
+current learning rate = 1e-06
+20:11:14: Epoch 354 summary:
+time taken: 76.65912938117981
+nsamples / sec: 0.07665912938117982
+average training loss: 0.0046581890282298335
+clim_bias: 31.892396926879883
+infer_bias: 36.85337448120117
+--------------------------------------------------------------------------------
+20:11:47: epoch 355 start
+current learning rate = 1e-06
+20:13:04: Epoch 355 summary:
+time taken: 76.76064133644104
+nsamples / sec: 0.07676064133644105
+average training loss: 0.004657972324902823
+clim_bias: 25.584497451782227
+infer_bias: 36.815303802490234
+--------------------------------------------------------------------------------
+20:13:37: epoch 356 start
+current learning rate = 1e-06
+20:14:54: Epoch 356 summary:
+time taken: 76.7452118396759
+nsamples / sec: 0.0767452118396759
+average training loss: 0.004657854764543633
+clim_bias: 28.62643051147461
+infer_bias: 36.78772735595703
+--------------------------------------------------------------------------------
+20:15:27: epoch 357 start
+current learning rate = 1e-06
+20:16:44: Epoch 357 summary:
+time taken: 76.7729024887085
+nsamples / sec: 0.0767729024887085
+average training loss: 0.0046576140542430935
+clim_bias: 30.298831939697266
+infer_bias: 36.765953063964844
+--------------------------------------------------------------------------------
+20:17:17: epoch 358 start
+current learning rate = 1e-06
+20:18:34: Epoch 358 summary:
+time taken: 76.69600677490234
+nsamples / sec: 0.07669600677490235
+average training loss: 0.004657456349218425
+clim_bias: 24.034608840942383
+infer_bias: 36.72337341308594
+--------------------------------------------------------------------------------
+20:19:07: epoch 359 start
+current learning rate = 1e-06
+20:20:24: Epoch 359 summary:
+time taken: 76.72953724861145
+nsamples / sec: 0.07672953724861145
+average training loss: 0.0046572889859233645
+clim_bias: 19.465328216552734
+infer_bias: 36.66584777832031
+--------------------------------------------------------------------------------
+20:20:56: epoch 360 start
+current learning rate = 1e-06
+20:22:13: Epoch 360 summary:
+time taken: 76.683509349823
+nsamples / sec: 0.076683509349823
+average training loss: 0.004657139455480377
+clim_bias: 33.15937805175781
+infer_bias: 36.654197692871094
+--------------------------------------------------------------------------------
+20:22:46: epoch 361 start
+current learning rate = 1e-06
+20:24:03: Epoch 361 summary:
+time taken: 76.73800253868103
+nsamples / sec: 0.07673800253868103
+average training loss: 0.004656984444872254
+clim_bias: 24.28748321533203
+infer_bias: 36.613250732421875
+--------------------------------------------------------------------------------
+20:24:35: epoch 362 start
+current learning rate = 1e-06
+20:25:52: Epoch 362 summary:
+time taken: 76.66556763648987
+nsamples / sec: 0.07666556763648986
+average training loss: 0.0046567567422244535
+clim_bias: 33.50302505493164
+infer_bias: 36.60298538208008
+--------------------------------------------------------------------------------
+20:26:25: epoch 363 start
+current learning rate = 1e-06
+20:27:41: Epoch 363 summary:
+time taken: 76.70264649391174
+nsamples / sec: 0.07670264649391174
+average training loss: 0.004656583883861467
+clim_bias: 30.712757110595703
+infer_bias: 36.5836067199707
+--------------------------------------------------------------------------------
+20:28:14: epoch 364 start
+current learning rate = 1e-06
+20:29:31: Epoch 364 summary:
+time taken: 76.88864636421204
+nsamples / sec: 0.07688864636421204
+average training loss: 0.004656445888826272
+clim_bias: 26.469783782958984
+infer_bias: 36.55044937133789
+--------------------------------------------------------------------------------
+20:30:04: epoch 365 start
+current learning rate = 1e-06
+20:31:21: Epoch 365 summary:
+time taken: 76.73404884338379
+nsamples / sec: 0.07673404884338379
+average training loss: 0.004656257473577614
+clim_bias: 25.50674057006836
+infer_bias: 36.51435852050781
+--------------------------------------------------------------------------------
+20:31:54: epoch 366 start
+current learning rate = 1e-06
+20:33:10: Epoch 366 summary:
+time taken: 76.63953256607056
+nsamples / sec: 0.07663953256607056
+average training loss: 0.00465608402353827
+clim_bias: 33.16233825683594
+infer_bias: 36.50343704223633
+--------------------------------------------------------------------------------
+20:33:43: epoch 367 start
+current learning rate = 1e-06
+20:35:00: Epoch 367 summary:
+time taken: 76.67514848709106
+nsamples / sec: 0.07667514848709106
+average training loss: 0.004655907364194622
+clim_bias: 29.020734786987305
+infer_bias: 36.47914505004883
+--------------------------------------------------------------------------------
+20:35:32: epoch 368 start
+current learning rate = 1e-06
+20:36:49: Epoch 368 summary:
+time taken: 76.84869956970215
+nsamples / sec: 0.07684869956970215
+average training loss: 0.00465577724420682
+clim_bias: 23.21782112121582
+infer_bias: 36.43622970581055
+--------------------------------------------------------------------------------
+20:37:22: epoch 369 start
+current learning rate = 1e-06
+20:38:39: Epoch 369 summary:
+time taken: 76.66990947723389
+nsamples / sec: 0.07666990947723389
+average training loss: 0.004655569222058608
+clim_bias: 30.096303939819336
+infer_bias: 36.415775299072266
+--------------------------------------------------------------------------------
+20:39:12: epoch 370 start
+current learning rate = 1e-06
+20:40:28: Epoch 370 summary:
+time taken: 76.61763072013855
+nsamples / sec: 0.07661763072013855
+average training loss: 0.004655456723567295
+clim_bias: 25.326175689697266
+infer_bias: 36.38011932373047
+--------------------------------------------------------------------------------
+20:41:01: epoch 371 start
+current learning rate = 1e-06
+20:42:18: Epoch 371 summary:
+time taken: 76.69754028320312
+nsamples / sec: 0.07669754028320312
+average training loss: 0.004655261581499134
+clim_bias: 37.45984649658203
+infer_bias: 36.38357925415039
+--------------------------------------------------------------------------------
+20:42:50: epoch 372 start
+current learning rate = 1e-06
+20:44:07: Epoch 372 summary:
+time taken: 76.65489459037781
+nsamples / sec: 0.0766548945903778
+average training loss: 0.004655110662994599
+clim_bias: 30.587039947509766
+infer_bias: 36.36505889892578
+--------------------------------------------------------------------------------
+20:44:40: epoch 373 start
+current learning rate = 1e-06
+20:45:57: Epoch 373 summary:
+time taken: 76.64884543418884
+nsamples / sec: 0.07664884543418884
+average training loss: 0.004654930552574789
+clim_bias: 21.068397521972656
+infer_bias: 36.31634521484375
+--------------------------------------------------------------------------------
+20:46:29: epoch 374 start
+current learning rate = 1e-06
+20:47:46: Epoch 374 summary:
+time taken: 76.607497215271
+nsamples / sec: 0.07660749721527099
+average training loss: 0.0046547524731521935
+clim_bias: 26.83211326599121
+infer_bias: 36.28623580932617
+--------------------------------------------------------------------------------
+20:48:19: epoch 375 start
+current learning rate = 1e-06
+20:49:35: Epoch 375 summary:
+time taken: 76.69386792182922
+nsamples / sec: 0.07669386792182922
+average training loss: 0.004654602799584384
+clim_bias: 28.301204681396484
+infer_bias: 36.26096725463867
+--------------------------------------------------------------------------------
+20:50:08: epoch 376 start
+current learning rate = 1e-06
+20:51:25: Epoch 376 summary:
+time taken: 76.67008471488953
+nsamples / sec: 0.07667008471488952
+average training loss: 0.004654426008736969
+clim_bias: 25.44721221923828
+infer_bias: 36.22685623168945
+--------------------------------------------------------------------------------
+20:51:58: epoch 377 start
+current learning rate = 1e-06
+20:53:14: Epoch 377 summary:
+time taken: 76.68268656730652
+nsamples / sec: 0.07668268656730652
+average training loss: 0.004654294490126645
+clim_bias: 23.98849105834961
+infer_bias: 36.18836975097656
+--------------------------------------------------------------------------------
+20:53:47: epoch 378 start
+current learning rate = 1e-06
+20:55:04: Epoch 378 summary:
+time taken: 76.6310465335846
+nsamples / sec: 0.0766310465335846
+average training loss: 0.004654109024353444
+clim_bias: 27.881481170654297
+infer_bias: 36.162330627441406
+--------------------------------------------------------------------------------
+20:55:37: epoch 379 start
+current learning rate = 1e-06
+20:56:53: Epoch 379 summary:
+time taken: 76.74282097816467
+nsamples / sec: 0.07674282097816468
+average training loss: 0.004653968568129527
+clim_bias: 30.438980102539062
+infer_bias: 36.14444351196289
+--------------------------------------------------------------------------------
+20:57:26: epoch 380 start
+current learning rate = 1e-06
+20:58:43: Epoch 380 summary:
+time taken: 76.72093749046326
+nsamples / sec: 0.07672093749046326
+average training loss: 0.004653797026441859
+clim_bias: 33.6153564453125
+infer_bias: 36.13656234741211
+--------------------------------------------------------------------------------
+20:59:16: epoch 381 start
+current learning rate = 1e-06
+21:00:32: Epoch 381 summary:
+time taken: 76.75870370864868
+nsamples / sec: 0.07675870370864868
+average training loss: 0.004653619809732293
+clim_bias: 25.254270553588867
+infer_bias: 36.10276794433594
+--------------------------------------------------------------------------------
+21:01:05: epoch 382 start
+current learning rate = 1e-06
+21:02:22: Epoch 382 summary:
+time taken: 76.66343116760254
+nsamples / sec: 0.07666343116760253
+average training loss: 0.004653474508591738
+clim_bias: 37.215938568115234
+infer_bias: 36.10621643066406
+--------------------------------------------------------------------------------
+21:02:55: epoch 383 start
+current learning rate = 1e-06
+21:04:11: Epoch 383 summary:
+time taken: 76.723708152771
+nsamples / sec: 0.07672370815277099
+average training loss: 0.004653342353219899
+clim_bias: 23.768613815307617
+infer_bias: 36.068138122558594
+--------------------------------------------------------------------------------
+21:04:44: epoch 384 start
+current learning rate = 1e-06
+21:06:01: Epoch 384 summary:
+time taken: 76.71868538856506
+nsamples / sec: 0.07671868538856506
+average training loss: 0.004653147838561305
+clim_bias: 18.744380950927734
+infer_bias: 36.01483154296875
+--------------------------------------------------------------------------------
+21:06:34: epoch 385 start
+current learning rate = 1e-06
+21:07:50: Epoch 385 summary:
+time taken: 76.71509027481079
+nsamples / sec: 0.07671509027481078
+average training loss: 0.004652996733313166
+clim_bias: 29.152175903320312
+infer_bias: 35.99378204345703
+--------------------------------------------------------------------------------
+21:08:23: epoch 386 start
+current learning rate = 1e-06
+21:09:40: Epoch 386 summary:
+time taken: 76.69722032546997
+nsamples / sec: 0.07669722032546997
+average training loss: 0.004652896722721159
+clim_bias: 19.335289001464844
+infer_bias: 35.94283676147461
+--------------------------------------------------------------------------------
+21:10:13: epoch 387 start
+current learning rate = 1e-06
+21:11:30: Epoch 387 summary:
+time taken: 76.74899959564209
+nsamples / sec: 0.07674899959564209
+average training loss: 0.00465269630081655
+clim_bias: 22.189332962036133
+infer_bias: 35.900909423828125
+--------------------------------------------------------------------------------
+21:12:03: epoch 388 start
+current learning rate = 1e-06
+21:13:20: Epoch 388 summary:
+time taken: 76.7809329032898
+nsamples / sec: 0.0767809329032898
+average training loss: 0.004652562116083408
+clim_bias: 30.95273208618164
+infer_bias: 35.885868072509766
+--------------------------------------------------------------------------------
+21:13:53: epoch 389 start
+current learning rate = 1e-06
+21:15:10: Epoch 389 summary:
+time taken: 76.78692507743835
+nsamples / sec: 0.07678692507743835
+average training loss: 0.004652405005690875
+clim_bias: 31.97858428955078
+infer_bias: 35.87403106689453
+--------------------------------------------------------------------------------
+21:15:43: epoch 390 start
+current learning rate = 1e-06
+21:16:59: Epoch 390 summary:
+time taken: 76.70002150535583
+nsamples / sec: 0.07670002150535583
+average training loss: 0.004652241590794283
+clim_bias: 35.331687927246094
+infer_bias: 35.87239074707031
+--------------------------------------------------------------------------------
+21:17:32: epoch 391 start
+current learning rate = 1e-06
+21:18:49: Epoch 391 summary:
+time taken: 76.79456758499146
+nsamples / sec: 0.07679456758499145
+average training loss: 0.0046521055279922265
+clim_bias: 25.774694442749023
+infer_bias: 35.841976165771484
+--------------------------------------------------------------------------------
+21:19:22: epoch 392 start
+current learning rate = 1e-06
+21:20:39: Epoch 392 summary:
+time taken: 76.77106714248657
+nsamples / sec: 0.07677106714248658
+average training loss: 0.004651942816211608
+clim_bias: 28.832130432128906
+infer_bias: 35.820926666259766
+--------------------------------------------------------------------------------
+21:21:12: epoch 393 start
+current learning rate = 1e-06
+21:22:29: Epoch 393 summary:
+time taken: 76.79271745681763
+nsamples / sec: 0.07679271745681762
+average training loss: 0.004651794572122709
+clim_bias: 32.73466491699219
+infer_bias: 35.811683654785156
+--------------------------------------------------------------------------------
+21:23:02: epoch 394 start
+current learning rate = 1e-06
+21:24:19: Epoch 394 summary:
+time taken: 76.71186542510986
+nsamples / sec: 0.07671186542510987
+average training loss: 0.004651589715533657
+clim_bias: 23.834548950195312
+infer_bias: 35.77593231201172
+--------------------------------------------------------------------------------
+21:24:52: epoch 395 start
+current learning rate = 1e-06
+21:26:08: Epoch 395 summary:
+time taken: 76.76130819320679
+nsamples / sec: 0.07676130819320678
+average training loss: 0.0046514895295796865
+clim_bias: 32.06566619873047
+infer_bias: 35.76488494873047
+--------------------------------------------------------------------------------
+21:26:41: epoch 396 start
+current learning rate = 1e-06
+21:27:58: Epoch 396 summary:
+time taken: 76.78626728057861
+nsamples / sec: 0.07678626728057861
+average training loss: 0.004651342448088621
+clim_bias: 29.98744773864746
+infer_bias: 35.74774169921875
+--------------------------------------------------------------------------------
+21:28:31: epoch 397 start
+current learning rate = 1e-06
+21:29:48: Epoch 397 summary:
+time taken: 76.78106641769409
+nsamples / sec: 0.0767810664176941
+average training loss: 0.004651192079264491
+clim_bias: 35.59743118286133
+infer_bias: 35.74729537963867
+--------------------------------------------------------------------------------
+21:30:21: epoch 398 start
+current learning rate = 1e-06
+21:31:38: Epoch 398 summary:
+time taken: 76.74782967567444
+nsamples / sec: 0.07674782967567444
+average training loss: 0.004651104683770302
+clim_bias: 32.95658493041992
+infer_bias: 35.73906326293945
+--------------------------------------------------------------------------------
+21:32:11: epoch 399 start
+current learning rate = 1e-06
+21:33:28: Epoch 399 summary:
+time taken: 76.80430626869202
+nsamples / sec: 0.07680430626869202
+average training loss: 0.004650860759562365
+clim_bias: 23.481534957885742
+infer_bias: 35.7030143737793
+--------------------------------------------------------------------------------
+21:34:01: epoch 400 start
+current learning rate = 1e-06
+21:35:18: Epoch 400 summary:
+time taken: 76.74559569358826
+nsamples / sec: 0.07674559569358826
+average training loss: 0.004650723847980226
+clim_bias: 24.795848846435547
+infer_bias: 35.67102813720703
+--------------------------------------------------------------------------------
+21:35:51: epoch 401 start
+current learning rate = 1e-06
+21:37:08: Epoch 401 summary:
+time taken: 76.8068220615387
+nsamples / sec: 0.0768068220615387
+average training loss: 0.004650586424950458
+clim_bias: 26.836084365844727
+infer_bias: 35.64519500732422
+--------------------------------------------------------------------------------
+21:37:41: epoch 402 start
+current learning rate = 1e-06
+21:38:58: Epoch 402 summary:
+time taken: 76.70896315574646
+nsamples / sec: 0.07670896315574646
+average training loss: 0.0046504675356895415
+clim_bias: 31.55872344970703
+infer_bias: 35.633277893066406
+--------------------------------------------------------------------------------
+21:39:31: epoch 403 start
+current learning rate = 1e-06
+21:40:48: Epoch 403 summary:
+time taken: 76.82937550544739
+nsamples / sec: 0.07682937550544738
+average training loss: 0.004650292238597089
+clim_bias: 24.285831451416016
+infer_bias: 35.60029983520508
+--------------------------------------------------------------------------------
+21:41:21: epoch 404 start
+current learning rate = 1e-06
+21:42:37: Epoch 404 summary:
+time taken: 76.74566102027893
+nsamples / sec: 0.07674566102027892
+average training loss: 0.0046501561714346025
+clim_bias: 27.26584815979004
+infer_bias: 35.576141357421875
+--------------------------------------------------------------------------------
+21:43:10: epoch 405 start
+current learning rate = 1e-06
+21:44:27: Epoch 405 summary:
+time taken: 76.75978374481201
+nsamples / sec: 0.07675978374481202
+average training loss: 0.004650026150034466
+clim_bias: 31.682201385498047
+infer_bias: 35.564884185791016
+--------------------------------------------------------------------------------
+21:45:00: epoch 406 start
+current learning rate = 1e-06
+21:46:17: Epoch 406 summary:
+time taken: 76.8032009601593
+nsamples / sec: 0.0768032009601593
+average training loss: 0.004649898378003996
+clim_bias: 28.025667190551758
+infer_bias: 35.543155670166016
+--------------------------------------------------------------------------------
+21:46:50: epoch 407 start
+current learning rate = 1e-06
+21:48:07: Epoch 407 summary:
+time taken: 76.78777074813843
+nsamples / sec: 0.07678777074813843
+average training loss: 0.00464974029675162
+clim_bias: 36.62743377685547
+infer_bias: 35.54627227783203
+--------------------------------------------------------------------------------
+21:48:40: epoch 408 start
+current learning rate = 1e-06
+21:49:57: Epoch 408 summary:
+time taken: 76.73702692985535
+nsamples / sec: 0.07673702692985535
+average training loss: 0.004649620067483062
+clim_bias: 31.864032745361328
+infer_bias: 35.53572463989258
+--------------------------------------------------------------------------------
+21:50:30: epoch 409 start
+current learning rate = 1e-06
+21:51:46: Epoch 409 summary:
+time taken: 76.72614336013794
+nsamples / sec: 0.07672614336013794
+average training loss: 0.004649458382406114
+clim_bias: 28.942821502685547
+infer_bias: 35.516883850097656
+--------------------------------------------------------------------------------
+21:52:19: epoch 410 start
+current learning rate = 1e-06
+21:53:36: Epoch 410 summary:
+time taken: 76.6383216381073
+nsamples / sec: 0.0766383216381073
+average training loss: 0.004649327851323503
+clim_bias: 37.439781188964844
+infer_bias: 35.52236557006836
+clim_bias > 35.52236557006836, recall from latest checkpoint
+--------------------------------------------------------------------------------
+21:54:09: epoch 411 start
+current learning rate = 1e-06
+21:55:26: Epoch 411 summary:
+time taken: 76.8072075843811
+nsamples / sec: 0.0768072075843811
+average training loss: 0.004667530956558053
+clim_bias: 33.540863037109375
+infer_bias: 35.5167350769043
+--------------------------------------------------------------------------------
+21:55:59: epoch 412 start
+current learning rate = 1e-06
+21:57:16: Epoch 412 summary:
+time taken: 76.79284262657166
+nsamples / sec: 0.07679284262657166
+average training loss: 0.004667320207160896
+clim_bias: 35.29551315307617
+infer_bias: 35.51610565185547
+--------------------------------------------------------------------------------
+21:57:49: epoch 413 start
+current learning rate = 1e-06
+21:59:06: Epoch 413 summary:
+time taken: 76.71699333190918
+nsamples / sec: 0.07671699333190918
+average training loss: 0.004667046540777837
+clim_bias: 26.850679397583008
+infer_bias: 35.49163055419922
+--------------------------------------------------------------------------------
+21:59:39: epoch 414 start
+current learning rate = 1e-06
+22:00:56: Epoch 414 summary:
+time taken: 76.76792311668396
+nsamples / sec: 0.07676792311668396
+average training loss: 0.004666763907502271
+clim_bias: 25.777931213378906
+infer_bias: 35.46426773071289
+--------------------------------------------------------------------------------
+22:01:29: epoch 415 start
+current learning rate = 1e-06
+22:02:46: Epoch 415 summary:
+time taken: 76.81933879852295
+nsamples / sec: 0.07681933879852294
+average training loss: 0.00466652020815865
+clim_bias: 29.901241302490234
+infer_bias: 35.44864273071289
+--------------------------------------------------------------------------------
+22:03:19: epoch 416 start
+current learning rate = 1e-06
+22:04:36: Epoch 416 summary:
+time taken: 76.73469042778015
+nsamples / sec: 0.07673469042778015
+average training loss: 0.0046662611876268694
+clim_bias: 35.85744857788086
+infer_bias: 35.44978713989258
+--------------------------------------------------------------------------------
+22:05:09: epoch 417 start
+current learning rate = 1e-06
+22:06:26: Epoch 417 summary:
+time taken: 76.83443784713745
+nsamples / sec: 0.07683443784713745
+average training loss: 0.00466597622777529
+clim_bias: 29.461078643798828
+infer_bias: 35.43305969238281
+--------------------------------------------------------------------------------
+22:06:59: epoch 418 start
+current learning rate = 1e-06
+22:08:16: Epoch 418 summary:
+time taken: 76.70484042167664
+nsamples / sec: 0.07670484042167663
+average training loss: 0.004665733109060361
+clim_bias: 25.951995849609375
+infer_bias: 35.406646728515625
+--------------------------------------------------------------------------------
+22:08:49: epoch 419 start
+current learning rate = 1e-06
+22:10:06: Epoch 419 summary:
+time taken: 76.74235320091248
+nsamples / sec: 0.07674235320091248
+average training loss: 0.0046655047581131434
+clim_bias: 37.78456497192383
+infer_bias: 35.41325378417969
+--------------------------------------------------------------------------------
+22:10:39: epoch 420 start
+current learning rate = 1e-06
+22:11:56: Epoch 420 summary:
+time taken: 76.79964971542358
+nsamples / sec: 0.07679964971542358
+average training loss: 0.004665224000516886
+clim_bias: 36.334197998046875
+infer_bias: 35.41580581665039
+clim_bias > 35.41580581665039, recall from latest checkpoint
+--------------------------------------------------------------------------------
+22:12:29: epoch 421 start
+current learning rate = 1e-06
+22:13:46: Epoch 421 summary:
+time taken: 76.73931980133057
+nsamples / sec: 0.07673931980133057
+average training loss: 0.004667583522057019
+clim_bias: 30.327451705932617
+infer_bias: 35.4017448425293
+--------------------------------------------------------------------------------
+22:14:19: epoch 422 start
+current learning rate = 1e-06
+22:15:36: Epoch 422 summary:
+time taken: 76.7364330291748
+nsamples / sec: 0.07673643302917481
+average training loss: 0.0046672796328948015
+clim_bias: 25.242006301879883
+infer_bias: 35.373756408691406
+--------------------------------------------------------------------------------
+22:16:09: epoch 423 start
+current learning rate = 1e-06
+22:17:26: Epoch 423 summary:
+time taken: 76.73144745826721
+nsamples / sec: 0.07673144745826721
+average training loss: 0.004667018398969356
+clim_bias: 33.941131591796875
+infer_bias: 35.36982345581055
+--------------------------------------------------------------------------------
+22:17:59: epoch 424 start
+current learning rate = 1e-06
+22:19:16: Epoch 424 summary:
+time taken: 76.72486686706543
+nsamples / sec: 0.07672486686706544
+average training loss: 0.0046667314419949315
+clim_bias: 20.18721580505371
+infer_bias: 35.32822799682617
+--------------------------------------------------------------------------------
+22:19:49: epoch 425 start
+current learning rate = 1e-06
+22:21:06: Epoch 425 summary:
+time taken: 76.73217916488647
+nsamples / sec: 0.07673217916488648
+average training loss: 0.0046664851853764015
+clim_bias: 39.058143615722656
+infer_bias: 35.338417053222656
+--------------------------------------------------------------------------------
+22:21:39: epoch 426 start
+current learning rate = 1e-06
+22:22:55: Epoch 426 summary:
+time taken: 76.72756767272949
+nsamples / sec: 0.0767275676727295
+average training loss: 0.004666221036543512
+clim_bias: 24.56952667236328
+infer_bias: 35.30907440185547
+--------------------------------------------------------------------------------
+22:23:29: epoch 427 start
+current learning rate = 1e-06
+22:24:45: Epoch 427 summary:
+time taken: 76.73455309867859
+nsamples / sec: 0.07673455309867859
+average training loss: 0.004665979114837728
+clim_bias: 26.779600143432617
+infer_bias: 35.2859001159668
+--------------------------------------------------------------------------------
+22:25:19: epoch 428 start
+current learning rate = 1e-06
+22:26:35: Epoch 428 summary:
+time taken: 76.72923374176025
+nsamples / sec: 0.07672923374176026
+average training loss: 0.00466572330908698
+clim_bias: 27.89812660217285
+infer_bias: 35.26587677001953
+--------------------------------------------------------------------------------
+22:27:09: epoch 429 start
+current learning rate = 1e-06
+22:28:25: Epoch 429 summary:
+time taken: 76.70454573631287
+nsamples / sec: 0.07670454573631287
+average training loss: 0.004665488913776509
+clim_bias: 30.95577049255371
+infer_bias: 35.25422668457031
+--------------------------------------------------------------------------------
+22:28:59: epoch 430 start
+current learning rate = 1e-06
+22:30:15: Epoch 430 summary:
+time taken: 76.71344304084778
+nsamples / sec: 0.07671344304084778
+average training loss: 0.004665261770979225
+clim_bias: 35.06673812866211
+infer_bias: 35.25372314453125
+--------------------------------------------------------------------------------
+22:30:48: epoch 431 start
+current learning rate = 1e-06
+22:32:05: Epoch 431 summary:
+time taken: 76.73062753677368
+nsamples / sec: 0.07673062753677368
+average training loss: 0.004665000314736714
+clim_bias: 28.42819595336914
+infer_bias: 35.235374450683594
+--------------------------------------------------------------------------------
+22:32:38: epoch 432 start
+current learning rate = 1e-06
+22:33:55: Epoch 432 summary:
+time taken: 76.73292183876038
+nsamples / sec: 0.07673292183876038
+average training loss: 0.004664727434884642
+clim_bias: 25.768117904663086
+infer_bias: 35.20999526977539
+--------------------------------------------------------------------------------
+22:34:28: epoch 433 start
+current learning rate = 1e-06
+22:35:45: Epoch 433 summary:
+time taken: 76.71659731864929
+nsamples / sec: 0.0767165973186493
+average training loss: 0.0046645197519224815
+clim_bias: 31.802297592163086
+infer_bias: 35.20087814331055
+--------------------------------------------------------------------------------
+22:36:18: epoch 434 start
+current learning rate = 1e-06
+22:37:35: Epoch 434 summary:
+time taken: 76.7339997291565
+nsamples / sec: 0.0767339997291565
+average training loss: 0.0046643010339539335
+clim_bias: 26.071800231933594
+infer_bias: 35.176536560058594
+--------------------------------------------------------------------------------
+22:38:08: epoch 435 start
+current learning rate = 1e-06
+22:39:25: Epoch 435 summary:
+time taken: 76.72067213058472
+nsamples / sec: 0.07672067213058471
+average training loss: 0.0046640482716757735
+clim_bias: 34.90082550048828
+infer_bias: 35.175804138183594
+--------------------------------------------------------------------------------
+22:39:58: epoch 436 start
+current learning rate = 1e-06
+22:41:15: Epoch 436 summary:
+time taken: 76.71530389785767
+nsamples / sec: 0.07671530389785766
+average training loss: 0.004663834472641813
+clim_bias: 23.400287628173828
+infer_bias: 35.144569396972656
+--------------------------------------------------------------------------------
+22:41:48: epoch 437 start
+current learning rate = 1e-06
+22:43:05: Epoch 437 summary:
+time taken: 76.69472217559814
+nsamples / sec: 0.07669472217559814
+average training loss: 0.004663570086754041
+clim_bias: 32.849021911621094
+infer_bias: 35.13849639892578
+--------------------------------------------------------------------------------
+22:43:38: epoch 438 start
+current learning rate = 1e-06
+22:44:55: Epoch 438 summary:
+time taken: 76.66713690757751
+nsamples / sec: 0.07666713690757751
+average training loss: 0.004663371881408833
+clim_bias: 42.84025955200195
+infer_bias: 35.158817291259766
+--------------------------------------------------------------------------------
+22:45:28: epoch 439 start
+current learning rate = 1e-06
+22:46:44: Epoch 439 summary:
+time taken: 76.74385857582092
+nsamples / sec: 0.07674385857582092
+average training loss: 0.004663125014949551
+clim_bias: 41.39621353149414
+infer_bias: 35.17523193359375
+--------------------------------------------------------------------------------
+22:47:17: epoch 440 start
+current learning rate = 1e-06
+22:48:34: Epoch 440 summary:
+time taken: 76.66846752166748
+nsamples / sec: 0.07666846752166748
+average training loss: 0.004662917738696647
+clim_bias: 26.44559669494629
+infer_bias: 35.15231704711914
+--------------------------------------------------------------------------------
+22:49:07: epoch 441 start
+current learning rate = 1e-06
+22:50:24: Epoch 441 summary:
+time taken: 76.66505479812622
+nsamples / sec: 0.07666505479812621
+average training loss: 0.004662698615826681
+clim_bias: 25.907751083374023
+infer_bias: 35.12812042236328
+--------------------------------------------------------------------------------
+22:50:56: epoch 442 start
+current learning rate = 1e-06
+22:52:13: Epoch 442 summary:
+time taken: 76.655916929245
+nsamples / sec: 0.07665591692924499
+average training loss: 0.00466248777384486
+clim_bias: 29.489282608032227
+infer_bias: 35.11339569091797
+--------------------------------------------------------------------------------
+22:52:46: epoch 443 start
+current learning rate = 1e-06
+22:54:03: Epoch 443 summary:
+time taken: 76.69241404533386
+nsamples / sec: 0.07669241404533386
+average training loss: 0.004662269259703109
+clim_bias: 28.79347801208496
+infer_bias: 35.0969352722168
+--------------------------------------------------------------------------------
+22:54:36: epoch 444 start
+current learning rate = 1e-06
+22:55:52: Epoch 444 summary:
+time taken: 76.67901754379272
+nsamples / sec: 0.07667901754379272
+average training loss: 0.004662060800547659
+clim_bias: 30.5327091217041
+infer_bias: 35.085079193115234
+--------------------------------------------------------------------------------
+22:56:25: epoch 445 start
+current learning rate = 1e-06
+22:57:42: Epoch 445 summary:
+time taken: 76.58543157577515
+nsamples / sec: 0.07658543157577515
+average training loss: 0.004661855780409095
+clim_bias: 27.34661293029785
+infer_bias: 35.065032958984375
+--------------------------------------------------------------------------------
+22:58:13: epoch 446 start
+current learning rate = 1e-06
+22:59:29: Epoch 446 summary:
+time taken: 76.43001365661621
+nsamples / sec: 0.07643001365661621
+average training loss: 0.004661646236352072
+clim_bias: 22.72089385986328
+infer_bias: 35.03313446044922
+--------------------------------------------------------------------------------
+23:00:01: epoch 447 start
+current learning rate = 1e-06
+23:01:17: Epoch 447 summary:
+time taken: 76.40795850753784
+nsamples / sec: 0.07640795850753784
+average training loss: 0.004661457014519913
+clim_bias: 28.647058486938477
+infer_bias: 35.01667785644531
+--------------------------------------------------------------------------------
+23:01:49: epoch 448 start
+current learning rate = 1e-06
+23:03:05: Epoch 448 summary:
+time taken: 76.42764234542847
+nsamples / sec: 0.07642764234542847
+average training loss: 0.004661243541969647
+clim_bias: 34.24909210205078
+infer_bias: 35.01470184326172
+--------------------------------------------------------------------------------
+23:03:37: epoch 449 start
+current learning rate = 1e-06
+23:04:53: Epoch 449 summary:
+time taken: 76.40860676765442
+nsamples / sec: 0.07640860676765442
+average training loss: 0.004661061287938203
+clim_bias: 23.764497756958008
+infer_bias: 34.98585891723633
+--------------------------------------------------------------------------------
+23:05:25: epoch 450 start
+current learning rate = 1e-06
+23:06:42: Epoch 450 summary:
+time taken: 76.44478011131287
+nsamples / sec: 0.07644478011131287
+average training loss: 0.004660854443629537
+clim_bias: 32.50166702270508
+infer_bias: 34.9795036315918
+--------------------------------------------------------------------------------
+23:07:14: epoch 451 start
+current learning rate = 1e-06
+23:08:30: Epoch 451 summary:
+time taken: 76.38274598121643
+nsamples / sec: 0.07638274598121643
+average training loss: 0.004660651011933273
+clim_bias: 31.813961029052734
+infer_bias: 34.971431732177734
+--------------------------------------------------------------------------------
+23:09:02: epoch 452 start
+current learning rate = 1e-06
+23:10:18: Epoch 452 summary:
+time taken: 76.42089319229126
+nsamples / sec: 0.07642089319229126
+average training loss: 0.004660457848955766
+clim_bias: 34.405582427978516
+infer_bias: 34.96998977661133
+--------------------------------------------------------------------------------
+23:10:50: epoch 453 start
+current learning rate = 1e-06
+23:12:06: Epoch 453 summary:
+time taken: 76.39011645317078
+nsamples / sec: 0.07639011645317077
+average training loss: 0.004660236642714105
+clim_bias: 32.069942474365234
+infer_bias: 34.96263122558594
+--------------------------------------------------------------------------------
+23:12:37: epoch 454 start
+current learning rate = 1e-06
+23:13:53: Epoch 454 summary:
+time taken: 76.40041470527649
+nsamples / sec: 0.07640041470527649
+average training loss: 0.0046600671596430466
+clim_bias: 21.772371292114258
+infer_bias: 34.92924118041992
+--------------------------------------------------------------------------------
+23:14:24: epoch 455 start
+current learning rate = 1e-06
+23:15:40: Epoch 455 summary:
+time taken: 76.46921730041504
+nsamples / sec: 0.07646921730041503
+average training loss: 0.0046598769865182485
+clim_bias: 32.08154296875
+infer_bias: 34.92204666137695
+--------------------------------------------------------------------------------
+23:16:12: epoch 456 start
+current learning rate = 1e-06
+23:17:28: Epoch 456 summary:
+time taken: 76.42797756195068
+nsamples / sec: 0.07642797756195069
+average training loss: 0.004659682431498207
+clim_bias: 24.901830673217773
+infer_bias: 34.89680480957031
+--------------------------------------------------------------------------------
+23:18:00: epoch 457 start
+current learning rate = 1e-06
+23:19:16: Epoch 457 summary:
+time taken: 76.44218754768372
+nsamples / sec: 0.07644218754768371
+average training loss: 0.0046594873349601424
+clim_bias: 28.477418899536133
+infer_bias: 34.88067626953125
+--------------------------------------------------------------------------------
+23:19:48: epoch 458 start
+current learning rate = 1e-06
+23:21:04: Epoch 458 summary:
+time taken: 76.42711043357849
+nsamples / sec: 0.07642711043357849
+average training loss: 0.0046592794930325
+clim_bias: 23.089818954467773
+infer_bias: 34.85112380981445
+--------------------------------------------------------------------------------
+23:21:35: epoch 459 start
+current learning rate = 1e-06
+23:22:52: Epoch 459 summary:
+time taken: 76.4356153011322
+nsamples / sec: 0.0764356153011322
+average training loss: 0.004659088157092782
+clim_bias: 32.1838493347168
+infer_bias: 34.84445571899414
+--------------------------------------------------------------------------------
+23:23:22: epoch 460 start
+current learning rate = 1e-06
+23:24:39: Epoch 460 summary:
+time taken: 76.3557960987091
+nsamples / sec: 0.0763557960987091
+average training loss: 0.004658919738880612
+clim_bias: 30.024253845214844
+infer_bias: 34.832435607910156
+--------------------------------------------------------------------------------
+23:25:09: epoch 461 start
+current learning rate = 1e-06
+23:26:26: Epoch 461 summary:
+time taken: 76.4354190826416
+nsamples / sec: 0.0764354190826416
+average training loss: 0.00465872430059692
+clim_bias: 24.766841888427734
+infer_bias: 34.80739974975586
+--------------------------------------------------------------------------------
+23:26:57: epoch 462 start
+current learning rate = 1e-06
+23:28:13: Epoch 462 summary:
+time taken: 76.3920578956604
+nsamples / sec: 0.0763920578956604
+average training loss: 0.0046585115304541135
+clim_bias: 42.57975387573242
+infer_bias: 34.826683044433594
+--------------------------------------------------------------------------------
+23:28:44: epoch 463 start
+current learning rate = 1e-06
+23:30:01: Epoch 463 summary:
+time taken: 76.46497941017151
+nsamples / sec: 0.07646497941017151
+average training loss: 0.00465837112033532
+clim_bias: 28.256881713867188
+infer_bias: 34.810420989990234
+--------------------------------------------------------------------------------
+23:30:32: epoch 464 start
+current learning rate = 1e-06
+23:31:49: Epoch 464 summary:
+time taken: 76.45248651504517
+nsamples / sec: 0.07645248651504516
+average training loss: 0.004658163689375532
+clim_bias: 29.760765075683594
+infer_bias: 34.79795455932617
+--------------------------------------------------------------------------------
+23:32:20: epoch 465 start
+current learning rate = 1e-06
+23:33:37: Epoch 465 summary:
+time taken: 76.46740961074829
+nsamples / sec: 0.07646740961074829
+average training loss: 0.004658008673708206
+clim_bias: 27.524721145629883
+infer_bias: 34.7800407409668
+--------------------------------------------------------------------------------
+23:34:08: epoch 466 start
+current learning rate = 1e-06
+23:35:25: Epoch 466 summary:
+time taken: 76.5690405368805
+nsamples / sec: 0.07656904053688049
+average training loss: 0.004657826087788027
+clim_bias: 31.61066436767578
+infer_bias: 34.77225112915039
+--------------------------------------------------------------------------------
+23:35:56: epoch 467 start
+current learning rate = 1e-06
+23:37:13: Epoch 467 summary:
+time taken: 76.49273705482483
+nsamples / sec: 0.07649273705482483
+average training loss: 0.004657664805389782
+clim_bias: 36.17680358886719
+infer_bias: 34.77569580078125
+--------------------------------------------------------------------------------
+23:37:44: epoch 468 start
+current learning rate = 1e-06
+23:39:00: Epoch 468 summary:
+time taken: 76.4324152469635
+nsamples / sec: 0.0764324152469635
+average training loss: 0.004657492972845695
+clim_bias: 29.327077865600586
+infer_bias: 34.76237487792969
+--------------------------------------------------------------------------------
+23:39:31: epoch 469 start
+current learning rate = 1e-06
+23:40:48: Epoch 469 summary:
+time taken: 76.45963907241821
+nsamples / sec: 0.0764596390724182
+average training loss: 0.004657310673260705
+clim_bias: 37.192413330078125
+infer_bias: 34.7682991027832
+--------------------------------------------------------------------------------
+23:41:19: epoch 470 start
+current learning rate = 1e-06
+23:42:36: Epoch 470 summary:
+time taken: 76.48001074790955
+nsamples / sec: 0.07648001074790954
+average training loss: 0.00465710413152441
+clim_bias: 26.136127471923828
+infer_bias: 34.74729919433594
+--------------------------------------------------------------------------------
+23:43:07: epoch 471 start
+current learning rate = 1e-06
+23:44:24: Epoch 471 summary:
+time taken: 76.51534223556519
+nsamples / sec: 0.07651534223556519
+average training loss: 0.004656914917441166
+clim_bias: 30.258384704589844
+infer_bias: 34.73640060424805
+--------------------------------------------------------------------------------
+23:44:55: epoch 472 start
+current learning rate = 1e-06
+23:46:12: Epoch 472 summary:
+time taken: 76.47892880439758
+nsamples / sec: 0.07647892880439758
+average training loss: 0.004656773496550881
+clim_bias: 33.335323333740234
+infer_bias: 34.733009338378906
+--------------------------------------------------------------------------------
+23:46:43: epoch 473 start
+current learning rate = 1e-06
+23:47:59: Epoch 473 summary:
+time taken: 76.40015077590942
+nsamples / sec: 0.07640015077590942
+average training loss: 0.004656600923940465
+clim_bias: 26.217731475830078
+infer_bias: 34.712440490722656
+--------------------------------------------------------------------------------
+23:48:30: epoch 474 start
+current learning rate = 1e-06
+23:49:47: Epoch 474 summary:
+time taken: 76.50283169746399
+nsamples / sec: 0.07650283169746398
+average training loss: 0.004656423242446081
+clim_bias: 29.069263458251953
+infer_bias: 34.69884490966797
+--------------------------------------------------------------------------------
+23:50:18: epoch 475 start
+current learning rate = 1e-06
+23:51:34: Epoch 475 summary:
+time taken: 76.4793529510498
+nsamples / sec: 0.07647935295104981
+average training loss: 0.004656218611575172
+clim_bias: 30.47829818725586
+infer_bias: 34.688697814941406
+--------------------------------------------------------------------------------
+23:52:06: epoch 476 start
+current learning rate = 1e-06
+23:53:22: Epoch 476 summary:
+time taken: 76.49376106262207
+nsamples / sec: 0.07649376106262207
+average training loss: 0.004656066559915866
+clim_bias: 29.72218132019043
+infer_bias: 34.676788330078125
+--------------------------------------------------------------------------------
+23:53:54: epoch 477 start
+current learning rate = 1e-06
+23:55:10: Epoch 477 summary:
+time taken: 76.50379753112793
+nsamples / sec: 0.07650379753112793
+average training loss: 0.004655903861125956
+clim_bias: 33.67302322387695
+infer_bias: 34.67438507080078
+--------------------------------------------------------------------------------
+23:55:42: epoch 478 start
+current learning rate = 1e-06
+23:56:58: Epoch 478 summary:
+time taken: 76.48105454444885
+nsamples / sec: 0.07648105454444885
+average training loss: 0.004655745726184423
+clim_bias: 37.04153060913086
+infer_bias: 34.68003845214844
+--------------------------------------------------------------------------------
+23:57:29: epoch 479 start
+current learning rate = 1e-06
+23:58:45: Epoch 479 summary:
+time taken: 76.42575025558472
+nsamples / sec: 0.07642575025558472
+average training loss: 0.004655552081988878
+clim_bias: 28.030317306518555
+infer_bias: 34.66420364379883
+--------------------------------------------------------------------------------
+23:59:16: epoch 480 start
+current learning rate = 1e-06
+00:00:33: Epoch 480 summary:
+time taken: 76.49717593193054
+nsamples / sec: 0.07649717593193055
+average training loss: 0.004655429035521072
+clim_bias: 34.599178314208984
+infer_bias: 34.66404724121094
+--------------------------------------------------------------------------------
+00:01:04: epoch 481 start
+current learning rate = 1e-06
+00:02:21: Epoch 481 summary:
+time taken: 76.56725716590881
+nsamples / sec: 0.07656725716590881
+average training loss: 0.0046552364693354395
+clim_bias: 27.969013214111328
+infer_bias: 34.6481819152832
+--------------------------------------------------------------------------------
+00:02:52: epoch 482 start
+current learning rate = 1e-06
+00:04:09: Epoch 482 summary:
+time taken: 76.6142098903656
+nsamples / sec: 0.0766142098903656
+average training loss: 0.0046550435470351205
+clim_bias: 34.74757385253906
+infer_bias: 34.64841842651367
+--------------------------------------------------------------------------------
+00:04:40: epoch 483 start
+current learning rate = 1e-06
+00:05:56: Epoch 483 summary:
+time taken: 76.4501326084137
+nsamples / sec: 0.0764501326084137
+average training loss: 0.004654950743393384
+clim_bias: 26.501333236694336
+infer_bias: 34.62920379638672
+--------------------------------------------------------------------------------
+00:06:28: epoch 484 start
+current learning rate = 1e-06
+00:07:44: Epoch 484 summary:
+time taken: 76.68394899368286
+nsamples / sec: 0.07668394899368286
+average training loss: 0.004654732486187814
+clim_bias: 32.44982147216797
+infer_bias: 34.62407684326172
+--------------------------------------------------------------------------------
+00:08:15: epoch 485 start
+current learning rate = 1e-06
+00:09:32: Epoch 485 summary:
+time taken: 76.41386198997498
+nsamples / sec: 0.07641386198997498
+average training loss: 0.004654583448182087
+clim_bias: 26.355539321899414
+infer_bias: 34.60466766357422
+--------------------------------------------------------------------------------
+00:10:03: epoch 486 start
+current learning rate = 1e-06
+00:11:20: Epoch 486 summary:
+time taken: 76.90669369697571
+nsamples / sec: 0.07690669369697571
+average training loss: 0.0046544339547682214
+clim_bias: 26.348190307617188
+infer_bias: 34.585330963134766
+--------------------------------------------------------------------------------
+00:11:51: epoch 487 start
+current learning rate = 1e-06
+00:13:08: Epoch 487 summary:
+time taken: 76.55979943275452
+nsamples / sec: 0.07655979943275451
+average training loss: 0.004654262190846864
+clim_bias: 32.27072525024414
+infer_bias: 34.57992172241211
+--------------------------------------------------------------------------------
+00:13:39: epoch 488 start
+current learning rate = 1e-06
+00:14:56: Epoch 488 summary:
+time taken: 76.58442306518555
+nsamples / sec: 0.07658442306518555
+average training loss: 0.004654078879981785
+clim_bias: 29.438186645507812
+infer_bias: 34.567935943603516
+--------------------------------------------------------------------------------
+00:15:27: epoch 489 start
+current learning rate = 1e-06
+00:16:44: Epoch 489 summary:
+time taken: 76.52101612091064
+nsamples / sec: 0.07652101612091064
+average training loss: 0.004653939115577345
+clim_bias: 19.05362892150879
+infer_bias: 34.531856536865234
+--------------------------------------------------------------------------------
+00:17:15: epoch 490 start
+current learning rate = 1e-06
+00:18:31: Epoch 490 summary:
+time taken: 76.41900682449341
+nsamples / sec: 0.0764190068244934
+average training loss: 0.00465382468058571
+clim_bias: 30.30301856994629
+infer_bias: 34.52204513549805
+--------------------------------------------------------------------------------
+00:19:02: epoch 491 start
+current learning rate = 1e-06
+00:20:18: Epoch 491 summary:
+time taken: 76.3111400604248
+nsamples / sec: 0.0763111400604248
+average training loss: 0.0046536005329220285
+clim_bias: 22.423831939697266
+infer_bias: 34.494041442871094
+--------------------------------------------------------------------------------
+00:20:48: epoch 492 start
+current learning rate = 1e-06
+00:22:05: Epoch 492 summary:
+time taken: 76.28858208656311
+nsamples / sec: 0.07628858208656311
+average training loss: 0.004653507295313098
+clim_bias: 33.463497161865234
+infer_bias: 34.491661071777344
+--------------------------------------------------------------------------------
+00:22:35: epoch 493 start
+current learning rate = 1e-06
+00:23:51: Epoch 493 summary:
+time taken: 76.30751347541809
+nsamples / sec: 0.07630751347541809
+average training loss: 0.004653348660805497
+clim_bias: 31.22542953491211
+infer_bias: 34.484134674072266
+--------------------------------------------------------------------------------
+00:24:22: epoch 494 start
+current learning rate = 1e-06
+00:25:38: Epoch 494 summary:
+time taken: 76.31586575508118
+nsamples / sec: 0.07631586575508117
+average training loss: 0.004653209940917932
+clim_bias: 23.869916915893555
+infer_bias: 34.45973587036133
+--------------------------------------------------------------------------------
+00:26:08: epoch 495 start
+current learning rate = 1e-06
+00:27:25: Epoch 495 summary:
+time taken: 76.28237915039062
+nsamples / sec: 0.07628237915039063
+average training loss: 0.0046530079901066215
+clim_bias: 25.598299026489258
+infer_bias: 34.43941116333008
+--------------------------------------------------------------------------------
+00:27:55: epoch 496 start
+current learning rate = 1e-06
+00:29:11: Epoch 496 summary:
+time taken: 76.3261947631836
+nsamples / sec: 0.0763261947631836
+average training loss: 0.004652855561261542
+clim_bias: 29.032222747802734
+infer_bias: 34.42703628540039
+--------------------------------------------------------------------------------
+00:29:42: epoch 497 start
+current learning rate = 1e-06
+00:30:58: Epoch 497 summary:
+time taken: 76.28959703445435
+nsamples / sec: 0.07628959703445434
+average training loss: 0.0046527303707464785
+clim_bias: 32.39577102661133
+infer_bias: 34.42239761352539
+--------------------------------------------------------------------------------
+00:31:28: epoch 498 start
+current learning rate = 1e-06
+00:32:44: Epoch 498 summary:
+time taken: 76.29055857658386
+nsamples / sec: 0.07629055857658386
+average training loss: 0.004652520407359879
+clim_bias: 30.101747512817383
+infer_bias: 34.41255569458008
+--------------------------------------------------------------------------------
+00:33:15: epoch 499 start
+current learning rate = 1e-06
+00:34:31: Epoch 499 summary:
+time taken: 76.31516718864441
+nsamples / sec: 0.07631516718864441
+average training loss: 0.004652338504177049
+clim_bias: 28.199743270874023
+infer_bias: 34.398433685302734
+
+======================================================================================
+                  Resource Usage on 2025-05-27 00:35:06:
+   Job Id:             141688343.gadi-pbs
+   Project:            ui41
+   Exit Status:        0
+   Service Units:      524.00
+   NCPUs Requested:    12                     NCPUs Used: 12              
+                                           CPU Time Used: 14:32:48        
+   Memory Requested:   95.0GB                Memory Used: 17.5GB          
+   NGPUs Requested:    1                 GPU Utilisation: 60%             
+                                         GPU Memory Used: 3.13GB          
+   Walltime requested: 20:00:00            Walltime Used: 14:33:20        
+   JobFS requested:    10.0GB                 JobFS used: 0B              
+======================================================================================
