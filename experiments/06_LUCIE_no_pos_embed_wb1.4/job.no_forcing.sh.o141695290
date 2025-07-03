@@ -1,0 +1,122 @@
+number of training samples per epoch: 3625
+number of auto-regressive rollout: 2920
+--------------------------------------------------------------------------------
+11:58:26: epoch 0 start
+using scheduler: current learning rate = [9.998026259498021e-05]
+12:06:12: Epoch 0 summary:
+time taken: 465.94655179977417
+sec / nsample: 0.12853697980683426
+average training loss: 5.168605391824451e-05
+--------------------------------------------------------------------------------
+12:06:12: epoch 1 start
+using scheduler: current learning rate = [9.993093369094605e-05]
+12:13:56: Epoch 1 summary:
+time taken: 463.779718875885
+sec / nsample: 0.1279392327933476
+average training loss: 3.5736001952449424e-05
+--------------------------------------------------------------------------------
+12:13:56: epoch 2 start
+using scheduler: current learning rate = [9.986190524833163e-05]
+12:21:40: Epoch 2 summary:
+time taken: 464.05152797698975
+sec / nsample: 0.128014214614342
+average training loss: 3.1603283610898704e-05
+--------------------------------------------------------------------------------
+12:21:40: epoch 3 start
+using scheduler: current learning rate = [9.977320754244407e-05]
+12:29:24: Epoch 3 summary:
+time taken: 464.05257844924927
+sec / nsample: 0.1280145043997929
+average training loss: 2.9211583152716263e-05
+--------------------------------------------------------------------------------
+12:29:25: epoch 4 start
+using scheduler: current learning rate = [9.96648794761772e-05]
+12:37:09: Epoch 4 summary:
+time taken: 464.1168603897095
+sec / nsample: 0.12803223734888536
+average training loss: 2.7713457791035847e-05
+--------------------------------------------------------------------------------
+12:37:09: epoch 5 start
+using scheduler: current learning rate = [9.953696856294635e-05]
+12:44:53: Epoch 5 summary:
+time taken: 463.8637590408325
+sec / nsample: 0.1279624162871262
+average training loss: 2.6692346799760307e-05
+--------------------------------------------------------------------------------
+12:44:53: epoch 6 start
+using scheduler: current learning rate = [9.938953090584589e-05]
+12:52:37: Epoch 6 summary:
+time taken: 464.1303970813751
+sec / nsample: 0.1280359716086552
+average training loss: 2.593793775390738e-05
+--------------------------------------------------------------------------------
+12:52:37: epoch 7 start
+using scheduler: current learning rate = [9.922263117303962e-05]
+13:00:21: Epoch 7 summary:
+time taken: 463.96631121635437
+sec / nsample: 0.12799070654244257
+average training loss: 2.5356750914327415e-05
+--------------------------------------------------------------------------------
+13:00:21: epoch 8 start
+using scheduler: current learning rate = [9.903634256939362e-05]
+13:08:05: Epoch 8 summary:
+time taken: 464.3361496925354
+sec / nsample: 0.12809273094966495
+average training loss: 2.48820886781413e-05
+--------------------------------------------------------------------------------
+13:08:05: epoch 9 start
+using scheduler: current learning rate = [9.883074680436503e-05]
+13:15:49: Epoch 9 summary:
+time taken: 464.184024810791
+sec / nsample: 0.1280507654650458
+average training loss: 2.4503709379737954e-05
+--------------------------------------------------------------------------------
+13:15:49: epoch 10 start
+using scheduler: current learning rate = [9.860593405616024e-05]
+13:23:33: Epoch 10 summary:
+time taken: 464.1808476448059
+sec / nsample: 0.12804988900546369
+average training loss: 2.4169202907791994e-05
+--------------------------------------------------------------------------------
+13:23:33: epoch 11 start
+using scheduler: current learning rate = [9.836200293217844e-05]
+13:31:18: Epoch 11 summary:
+time taken: 464.2178964614868
+sec / nsample: 0.12806010936868603
+average training loss: 2.3886802654001262e-05
+--------------------------------------------------------------------------------
+13:31:18: epoch 12 start
+using scheduler: current learning rate = [9.809906042575782e-05]
+13:39:02: Epoch 12 summary:
+time taken: 464.0968379974365
+sec / nsample: 0.12802671393032733
+average training loss: 2.3641387865744557e-05
+--------------------------------------------------------------------------------
+13:39:02: epoch 13 start
+using scheduler: current learning rate = [9.781722186924336e-05]
+13:46:46: Epoch 13 summary:
+time taken: 464.2700402736664
+sec / nsample: 0.12807449386859762
+average training loss: 2.3408056786375735e-05
+--------------------------------------------------------------------------------
+13:46:46: epoch 14 start
+using scheduler: current learning rate = [9.751661088339704e-05]
+13:54:30: Epoch 14 summary:
+time taken: 464.23736810684204
+sec / nsample: 0.12806548085705988
+average training loss: 2.3212958431000824e-05
+
+======================================================================================
+                  Resource Usage on 2025-05-26 13:54:37:
+   Job Id:             141695290.gadi-pbs
+   Project:            ui41
+   Exit Status:        0
+   Service Units:      69.85
+   NCPUs Requested:    12                     NCPUs Used: 12              
+                                           CPU Time Used: 02:29:56        
+   Memory Requested:   95.0GB                Memory Used: 11.92GB         
+   NGPUs Requested:    1                 GPU Utilisation: 80%             
+                                         GPU Memory Used: 3.92GB          
+   Walltime requested: 03:00:00            Walltime Used: 01:56:25        
+   JobFS requested:    10.0GB                 JobFS used: 0B              
+======================================================================================
